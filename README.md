@@ -13,18 +13,18 @@
 
 ---
 
-## 🔬 The RFC Matrix: The 6 Pillars of Sovereignty
+### 🔬 The RFC Matrix: The 6 Pillars of Sovereignty
 
 The Aicent Stack is governed by **six core protocols**, each defining a fundamental biological function of the sovereign intelligence infrastructure.
 
 | RFC | Domain | Organ | Technical Role | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| [**RFC-001**](./rfcs/RFC-001-AICENT-BRAIN.md) | [Aicent.com](http://aicent.com) | **Brain** | Sovereign Identity & Cognitive Orchestration | **Standard** |
-| [**RFC-002**](./rfcs/RFC-002-RTTP-NERVES.md) | [RTTP.com](http://rttp.com) | **Nerves** | Pulse-Frame Transport (Semantic Multicast) | **Standard** |
-| [**RFC-003**](./rfcs/RFC-003-RPKI-IMMUNITY.md) | [RPKI.com](http://rpki.com) | **Immunity**| Parallel Tensor Watermarking & Defense | **Standard** |
-| [**RFC-004**](./rfcs/RFC-004-ZCMK-BLOOD.md) | [ZCMK.com](http://zcmk.com) | **Blood** | Zero-Commission RTBA Settlement | **Standard** |
-| [**RFC-005**](./rfcs/RFC-005-GTIOT-BODY.md) | [GTIOT.com](http://gtiot.com) | **Body** | High-Fidelity Edge Fusion & Actuation | **Standard** |
-| [**RFC-006**](./rfcs/RFC-006-AICENT-NET.md) | [Aicent.net](http://aicent.net) | **Hive** | Global Operational Grid & Collective Intel | **Active Evolution** |
+| [**RFC-001**](https://github.com/Aicent-Stack/manifesto/blob/main/rfcs/RFC-001-AICENT-BRAIN.md) | [Aicent.com](http://aicent.com) | **Brain** | Sovereign Identity & Cognitive Orchestration | **Standard** |
+| [**RFC-002**](https://github.com/Aicent-Stack/manifesto/blob/main/rfcs/RFC-002-RTTP-NERVES.md) | [RTTP.com](http://rttp.com) | **Nerves** | Pulse-Frame Transport (Semantic Multicast) | **Standard** |
+| [**RFC-003**](https://github.com/Aicent-Stack/manifesto/blob/main/rfcs/RFC-003-RPKI-IMMUNITY.md) | [RPKI.com](http://rpki.com) | **Immunity** | Parallel Tensor Watermarking & Defense | **Standard** |
+| [**RFC-004**](https://github.com/Aicent-Stack/manifesto/blob/main/rfcs/RFC-004-ZCMK-BLOOD.md) | [ZCMK.com](http://zcmk.com) | **Blood** | Zero-Commission RTBA Settlement | **Standard** |
+| [**RFC-005**](https://github.com/Aicent-Stack/manifesto/blob/main/rfcs/RFC-005-GTIOT-BODY.md) | [GTIOT.com](http://gtiot.com) | **Body** | High-Fidelity Edge Fusion & Actuation | **Standard** |
+| [**RFC-006**](https://github.com/Aicent-Stack/manifesto/blob/main/rfcs/RFC-006-AICENT-NET.md) | [Aicent.net](http://aicent.net) | **Hive** | Global Operational Grid & Collective Intel | **Active Evolution** |
 
 ---
 
