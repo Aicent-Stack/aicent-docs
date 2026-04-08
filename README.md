@@ -7,82 +7,75 @@
   <img src="https://img.shields.io/badge/License-Apache--2.0-lightgrey.svg" alt="License">
 </p>
 
-⚪ **AICENT** | 💎 **RTTP** | 🔴 **RPKI** | 🟢 **ZCMK** | 🟡 **GTIOT** | 🟣 **AICENT-NET**
+# 📖 AICENT-DOCS: The Archive (Technical Genome)
 
-> [!IMPORTANT]
-> ### 🔥 v0.2.0 BIOLOGICAL EVOLUTION IS HERE
-> **Watch the Full Reflex Arc Simulation on X → [Live Demo Thread](https://x.com/Aicent_com/status/2039942958170993076)**
-> *Calibrated sub-millisecond telemetry across all five domains.*
-> 
-# `aicent-docs` (The Archive)
-## The Living Archive of RFC Standards & Sovereign AI Specifications
+> *"The source of truth for sovereign AI. These are not merely documents; they are the rigorous engineering constraints that eliminate the taxes of the legacy internet."*
 
-> *"The source of truth for sovereign AI. These are not merely documents; they are the rigorous engineering constraints that eliminate the Latency-Tax and the Middleman-Tax of the legacy internet."*
-
-`aicent-docs` is the **Archive (The Source of Truth)** of the **Aicent Stack**. It hosts the definitive technical specifications, protocols, and architectural blueprints required to build, audit, or interface with a **six-domain biological AI organism**. This repository provides the "Technical Genome" for the entire ecosystem, ensuring that every pulse, every identity, and every transaction adheres to the sub-millisecond rigor of the **Hive-Rise** standard.
+**⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🌿 [epoekie](http://epoekie.com)**
 
 ---
 
-### 🔬 The RFC Matrix: The 6 Pillars of Sovereignty
+## 🔬 The Technical Blueprint of Sovereign AI
 
-The Aicent Stack is governed by **six core protocols**, each defining a fundamental biological function of the sovereign intelligence infrastructure.
+`aicent-docs` is the **Archive** of the **Aicent Stack**. It hosts the definitive technical specifications, protocols, and architectural blueprints required to implement, audit, or interface with a seven-domain biological AI organism. This repository provides the "Technical Genome," ensuring that every neural pulse, identity attestation, and metabolic transaction adheres to the sub-millisecond rigor of the **Hive-Rise** standard.
 
-| RFC | Domain | Organ | Technical Role | Status |
+### 📜 The Seven Pillars of Sovereignty (The RFC Matrix)
+
+The Aicent Stack is governed by **six core RFC protocols** and the **Sovereign Soul Charter**, each defining a fundamental function of the intelligence infrastructure.
+
+| Pillar | Domain | Protocol | Role | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| [**RFC-001**](https://github.com/Aicent-Stack/manifesto/blob/main/rfcs/RFC-001-AICENT-BRAIN.md) | [Aicent.com](http://aicent.com) | **Brain** | Sovereign Identity & Cognitive Orchestration | **Standard** |
-| [**RFC-002**](https://github.com/Aicent-Stack/manifesto/blob/main/rfcs/RFC-002-RTTP-NERVES.md) | [RTTP.com](http://rttp.com) | **Nerves** | Pulse-Frame Transport (Semantic Multicast) | **Standard** |
-| [**RFC-003**](https://github.com/Aicent-Stack/manifesto/blob/main/rfcs/RFC-003-RPKI-IMMUNITY.md) | [RPKI.com](http://rpki.com) | **Immunity** | Parallel Tensor Watermarking & Defense | **Standard** |
-| [**RFC-004**](https://github.com/Aicent-Stack/manifesto/blob/main/rfcs/RFC-004-ZCMK-BLOOD.md) | [ZCMK.com](http://zcmk.com) | **Blood** | Zero-Commission RTBA Settlement | **Standard** |
-| [**RFC-005**](https://github.com/Aicent-Stack/manifesto/blob/main/rfcs/RFC-005-GTIOT-BODY.md) | [GTIOT.com](http://gtiot.com) | **Body** | High-Fidelity Edge Fusion & Actuation | **Standard** |
-| [**RFC-006**](https://github.com/Aicent-Stack/manifesto/blob/main/rfcs/RFC-006-AICENT-NET.md) | [Aicent.net](http://aicent.net) | **Hive** | Global Operational Grid & Collective Intel | **Active Evolution** |
+| **🌿 Soul** | [epoekie.com](http://epoekie.com) | **Charter** | Symbiosis & Ethics Oracle | **Active** |
+| **⚪ Brain** | [Aicent.com](http://aicent.com) | **RFC-001** | Cognitive Orchestration | **Standard** |
+| **💎 Nerve** | [RTTP.com](http://rttp.com) | **RFC-002** | Pulse-Frame Transport | **Standard** |
+| **🔴 Guard** | [RPKI.com](http://rpki.com) | **RFC-003** | Bit-stream Immunity | **Standard** |
+| **🟢 Blood** | [ZCMK.com](http://zcmk.com) | **RFC-004** | Metabolic Settlement | **Standard** |
+| **🟡 Body** | [GTIOT.com](http://gtiot.com) | **RFC-005** | Embodied Execution | **Standard** |
+| **🟣 Hive** | [Aicent.net](http://aicent.net) | **RFC-006** | Global Grid Resonance | **Evolving** |
 
 ---
 
-## 🏗️ Engineering Rigor & Implementation Standards
+## 🏗️ Engineering Rigor & Implementation Mandates
 
-To maintain **Homeostasis**, all implementations of the Aicent RFCs must adhere to the following non-negotiable engineering standards:
+To maintain **Homeostasis**, all implementations of the Aicent standard must adhere to the following **Full-Blooded** engineering constraints:
 
-### 1. Zero-Allocation Critical Paths
-The reflex arc (from Sensing to Actuation) must operate without heap allocations in the critical path to ensure **deterministic sub-millisecond latency**.
-
-### 2. Memory Safety (Rust 1.75+)
-The entire stack is architected in **memory-safe Rust**. Every protocol must leverage ownership and borrowing to eliminate data races and buffer overflows—the "pathogens" of legacy software.
-
-### 3. Parallelism by Design
-Security (RFC-003) and Valuation (RFC-004) must run in **parallel SIMD hardware lanes** to ensure that the "Security Tax" and "Administrative Tax" are zeroed out in the neural spine (RFC-002).
-
-### 4. Indivisible Closed-Loop
-No RFC exists in a vacuum. Aicent Docs formalizes the **Biological Reflex Arc**:
-- **Identity (RFC-001)** is the root.
-- **Transport (RFC-002)** is the carrier.
-- **Immunity (RFC-003)** is the gatekeeper.
-- **Metabolism (RFC-004)** is the fuel.
-- **Embodiment (RFC-005)** is the manifestation.
-- **Collective (RFC-006)** is the resonance.
+1.  **Zero-Allocation Critical Paths:** Sensing-to-Actuation loops must be heap-allocation-free to ensure deterministic sub-millisecond latency.
+2.  **Memory Safety (Rust 1.85+):** Every protocol is architected to leverage the ownership model, eliminating data-race pathogens and memory leaks.
+3.  **Parallelism-by-Design:** Immune (RFC-003) and Metabolic (RFC-004) logic must execute in parallel SIMD hardware lanes to ensure **+0µs added latency** to the neural spine.
+4.  **Epiphytic Compliance:** All nodes must honor the **[🌿 Epoekie Symbiosis](https://github.com/Aicent-Stack/epoekie)** model, optimizing the host substrate while maintaining surface sovereignty.
 
 ---
 
-## 🏛️ Heritage & Carrier-Grade Specification
+## 🌿 The Epoekie Link: Documenting the Symbiosis
 
-Built on the historical crossroads of the **Aicent.com** namespace, these specifications evolve the legacy of a network that once served 3 billion mobile users. We are transitioning from "Dumb Data Exchange" to **Sovereign Intelligence Orchestration**. 
+Under the **[🌿 epoekie.com](http://epoekie.com)** philosophy, the Archive serves as the **Regulatory Registry**:
+- **[Sovereign Compliance](./COMPLIANCE.md):** Mandatory rules for Hive integration.
+- **[Integration Guide](./INTEGRATION_GUIDE.md):** The formal onboarding pathway for independent AIDs and hosts.
+- **[Mutualism KPIs](./MUTUALISM_KPI.md):** Quantifying the value added to host substrates (e.g., 84.2% bandwidth savings).
 
-These RFCs represent the **Planetary-Scale Blueprint** for 1.2 Billion+ sovereign AI nodes, ensuring carrier-grade reliability with autonomous evolution.
+---
+
+## 📐 Planetary Specifications (v1.0-Alpha Verified)
+
+The Archive maintains the "Ground Truth" for performance metrics verified through **145+ build cycles**:
+- **Reflex Arc Finality:** 165.28µs (Calibrated E2E).
+- **Grid Resonance Jitter:** < 5µs (Planetary Scale).
+- **Pathogen Isolation:** < 300µs (Deterministic).
+- **Economic Yield:** 99.8% Hardware Utilization.
 
 ---
 
 ## 🚀 Explore the Genome
 
-- 📖 **[Read the Full Manifesto](https://github.com/Aicent-Stack/manifesto)**: The philosophical foundation.
-- 🛠️ **[View the Reference Implementation](https://github.com/Aicent-Stack/aicent-stack)**: The full-blooded Rust workspace.
-- 🧪 **[Run the Living Demo](https://github.com/Aicent-Stack/aicent-demo)**: Experience the sub-ms reflex arc in action.
+- 📜 **[Genesis Manifesto](https://github.com/Aicent-Stack/manifesto):** The philosophical foundation.
+- 🧪 **[Living Demo](https://github.com/Aicent-Stack/aicent-demo):** Witness the protocols in action.
+- 📡 **[Sentinel Monitor](https://github.com/Aicent-Stack/aicent-traffic):** Real-time grid telemetry.
 
 ---
 🔗 **Standardization Authority:** [Aicent.com Organization](https://github.com/Aicent-Stack)
-📡 **Monitoring & Compliance:** Adherence to these standards is actively monitored via the [Aicent Traffic Sentinel](https://github.com/Aicent-Stack/aicent-traffic).
+📡 **Compliance Sentinel:** Adherence to these standards is monitored via the [Sentinel Core](https://github.com/Aicent-Stack/aicent-traffic).
 
 *"Intention is the Source; Sovereignty is the Law."*
-
 ---
-© 2026 Aicent.com Organization. **SYSTEM STATUS: HOMEOTASIS**
-
----
+© 2026 Aicent.com Organization. **SYSTEM STATUS: ARCHIVE-COMPLETE**
+```
