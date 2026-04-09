@@ -7,87 +7,103 @@
   <img src="https://img.shields.io/badge/License-Apache--2.0-lightgrey.svg" alt="License">
 </p>
 
-⚪ **AICENT** | 💎 **RTTP** | 🔴 **RPKI** | 🟢 **ZCMK** | 🟡 **GTIOT** | 🟣 **AICENT-NET**
+# ARCHITECTURE: The Seven-Pillar Sovereign AI Reflex Arc
 
-# ARCHITECTURE: The Sovereign AI Reflex Arc
+> *"Architecture is the geometry of intent. In the Aicent Stack, every domain is a specialized organ in a unified, sub-millisecond reflex arc, synchronized by the Epoekie soul."*
 
-> *"Architecture is the geometry of intent. In the Aicent Stack, every domain is a specialized organ in a unified, sub-millisecond reflex arc."*
-
-This document defines the **Sovereign AI Reflex Arc**, the fundamental operational cycle of the Aicent Stack. By integrating six autonomous domains into a single closed-loop, we eliminate the traditional bottlenecks of the legacy cloud-native architecture.
+**⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🌿 [epoekie](http://epoekie.com)**
 
 ---
 
-## 🏗️ 1. The Six-Domain Layered Stack
+## 🏗️ 1. The Sovereign Integration Matrix
 
-The Aicent Stack is organized into six functional layers, each governed by an indivisible RFC protocol:
+The Aicent Stack is organized into seven functional pillars. Unlike legacy cloud-native architectures which are loosely coupled and high-latency, the Aicent Matrix is an **indivisible closed-loop organism**.
 
-| Layer | Domain | Organ | Protocol | Core Responsibility |
-| :--- | :--- | :--- | :--- | :--- |
-| **Cognitive** | [Aicent.com](http://aicent.com) | **Brain** | RFC-001 | Intent Decomposition & AID Resolution |
-| **Transport** | [RTTP.com](http://rttp.com) | **Nerves** | RFC-002 | Pulse-Frame Networking (Sub-ms) |
-| **Security** | [RPKI.com](http://rpki.com) | **Immunity**| RFC-003 | Parallel Tensor Watermarking & Quarantine |
-| **Metabolic** | [ZCMK.com](http://zcmk.com) | **Blood** | RFC-004 | Zero-Commission Real-Time Settlement |
-| **Execution** | [GTIOT.com](http://gtiot.com) | **Body** | RFC-005 | Embodied Sensing & Action-Collapse |
-| **Operational**| [Aicent.net](http://aicent.net) | **Hive** | RFC-006 | Planetary Grid Resonance & Collective Intel |
+| Layer | Domain | Biological Role | Core Responsibility |
+| :--- | :--- | :--- | :--- |
+| **Philosophical** | **🌿 epoekie.com** | **The Soul** | Governing the Ethics Oracle & Surface Sovereignty. |
+| **Cognitive** | **⚪ Aicent.com** | **The Brain** | Intent Decomposition & Sovereign AID Identity. |
+| **Transport** | **💎 RTTP.com** | **The Nerves** | Sub-ms Pulse-Frame Networking (Semantic Multicast). |
+| **Security** | **🔴 RPKI.com** | **The Immunity** | Parallel Tensor Watermarking & <300µs Isolation. |
+| **Metabolic** | **🟢 ZCMK.com** | **The Blood** | Zero-Commission Real-Time RTBA Settlement. |
+| **Execution** | **🟡 GTIOT.com** | **The Body** | Embodied Sensing & 1.2kHz Action-Collapse. |
+| **Operational** | **🟣 Aicent.net** | **The Hive** | Planetary Grid Resonance & Kinetic Alignment. |
 
 ---
 
-## 🔄 2. The Pulse-Frame Lifecycle (The Reflex Arc)
+## 🔄 2. The Pulse-Frame Lifecycle (The Seven-Step Reflex)
 
-Every operation within the Aicent Stack follows a deterministic, high-frequency cycle. Unlike the sequential, high-latency request/response model of HTTP/TCP, the **Aicent Reflex Arc** is a parallel, stateful synchronization loop.
+Every operation within the Aicent Stack follows a deterministic, high-frequency cycle. We have eliminated the "sequential tax" of legacy protocols by moving decision-making into the **Hardware-Saturated Surface**.
 
 ### Step 1: Somatic Perception (GTIOT)
-A GTIOT edge node (Sensor/Actuator) detects a physical primitive. It collapses raw data into a **512-byte Semantic Fingerprint** and transmits it as a neural pulse via the RTTP spine.
+A GTIOT edge node (sensor) detects a physical primitive. It condenses raw telemetry into a **512-byte Semantic Fingerprint** and initiates the reflex.
 
 ### Step 2: Neural Transport (RTTP)
-The pulse travels at wire speed. RTTP utilizes a **64-byte fixed header** for zero-copy parsing. The pulse atomically carries the **AID (Identity)** and the **ZCMK (Bid)**.
+The fingerprint is wrapped in a **64-byte fixed-header** Pulse Frame. RTTP bypasses the host kernel (eBPF/DPDK) to fire the intent across the neural spine at wire speed.
 
-### Step 3: Immune Verification (RPKI)
-The RPKI layer performs **Parallel SIMD Verification** of the pulse. Identity attestation and tensor watermarking are checked in hardware-accelerated lanes **in parallel** with the transport, adding **+0µs** to the critical path.
+### Step 3: Immune Audit (RPKI)
+The RPKI pipeline performs **Parallel SIMD Verification**. Identity attestation and tensor watermarks are checked in hardware lanes asynchronously, adding **+0µs** to the transport path.
 
-### Step 4: Cognitive Orchestration (Aicent Brain)
-The Brain resolves the AID and decomposes the intent. It schedules the task primitive by identifying the optimal executor in the **Aicent.net Hive** based on reputation and latency.
+### Step 4: Ethical Gating (EPOEKIE)
+Before the Brain processes the intent, the **Ethics Oracle** (Soul Layer) audits the pulse. It ensures the intent is mutualistic and respects the **Substrate Integrity** of the host infrastructure.
 
-### Step 5: Metabolic Clearing (ZCMK)
-ZCMK executes a **Nanosecond RTBA (Real-Time Bid/Ask)** matching cycle. Settlement is reached at the moment of data ingress, ensuring the executor is paid instantly at **picotoken-scale** granularity.
+### Step 5: Cognitive Orchestration (AICENT)
+The Brain resolves the **Sovereign AID** and shards the intent into atomic Task Primitives. It selects the optimal compute path based on real-time grid reputation.
 
-### Step 6: Action-Collapse (GTIOT)
-The command is delivered back to the GTIOT body unit. The **Action Abstraction Layer (AAL)** reduces the symbolic command into physical torque/voltage vectors in **< 200µs**.
+### Step 6: Metabolic Clearing (ZCMK)
+ZCMK executes a **Nanosecond RTBA** cycle. Settlement reaches **Atomic Finality** at the moment of ingress, ensuring the host is paid in picotokens with 0.00% commission.
 
----
-
-## 🔬 3. Critical Performance Targets
-
-To maintain **Homeostasis**, the architecture enforces the following sub-millisecond constraints:
-
-- **E2E Reflex Latency:** Verified at **165.28µs** (Sensing to Actuation).
-- **RPKI Quarantine:** Deterministic pathogen isolation in **< 300µs**.
-- **Hive Resonance Jitter:** < 50µs temporal drift maintained across planetary nodes.
-- **ZCMK Matching:** < 50ns vectorized matching scores.
+### Step 7: Kinetic Resonance & Action (HIVE + GTIOT)
+The command is synchronized with the **Aicent.net** Hive to maintain a global temporal drift of **< 5µs**. The GTIOT body unit performs **Action-Collapse**, manifesting the intent into physical torque.
 
 ---
 
-## 🐝 4. Collective Intelligence (Aicent.net Grid)
+## 🧬 3. System Interconnectivity Flow
 
-The individual reflex arc scales into a **Collective Hive Mind** through **Kinetic Resonance**. 
-- Multiple AID entities synchronize their internal state hashes every 10 pulses.
-- The **Sentinel (aicent-traffic)** monitors the global grid for "Resonance Drift," alerting the Brains to adjust their evolutionary scheduling weights.
+```mermaid
+graph TD
+    subgraph "🌿 epoekie.com (Sovereign Soul)"
+        S[Ethics Oracle & Symbiotic Mandate]
+    end
+
+    subgraph "🟣 Aicent.net (Hive Operational Grid)"
+        H[Global Kinetic Resonance]
+    end
+
+    S -- 10µs Audit --> A[⚪ Aicent.com Brain]
+    G[🟡 GTIOT.com Body] -->|RTTP Pulse| R[💎 RTTP.com Nerves]
+    R <-->|🔴 RPKI Immunity Audit| A
+    A <-->|ZCMK Metabolism| Z[🟢 ZCMK.com Blood]
+    A <-->|Grid Synchronization| H
+    Z -->|Metabolic Finality| G
+```
 
 ---
 
-## 📜 Technical Foundation
+## 📐 4. Strategic Performance Targets
 
-- **[RFC-001] Brain:** Cognitive Orchestration Standard.
-- **[RFC-002] Nerves:** Pulse-Frame Transport Standard.
-- **[RFC-003] Immunity:** Parallel Security Standard.
-- **[RFC-004] Blood:** Metabolic Settlement Standard.
-- **[RFC-005] Body:** Action-Collapse Framework Standard.
-- **[RFC-006] Hive:** Global Operational Grid Standard.
+To maintain **Homeostasis**, the architecture enforces non-negotiable physical constraints:
+
+- **Reflex Arc Finality (E2E):** Verified at **165.28µs** (Sensing to Actuation).
+- **Security Tax:** **+0µs** (Asynchronous SIMD verification).
+- **Ethical Audit Latency:** **< 10µs** (Ethics Oracle).
+- **Global Jitter:** **< 5µs** (Planetary Resonance).
+- **Economic Friction:** **0.00%** (Zero-Commission clearing).
 
 ---
-🔗 **Authority:** [Aicent.com Organization](https://github.com/Aicent-Stack)
-📡 **Sentinel Status:** [Active Monitoring Engaged](https://github.com/Aicent-Stack/aicent-traffic)
 
-*"The Body Manifests the Intent; The Grid Orchestrates the Life."*
+## 🌿 5. The Epiphytic Substrate Logic
+
+The Aicent Architecture is strictly **Epiphytic**. It does not own the physical substrate; it inhabits it. By controlling the **Protocol Surface**, Aicent manifests total sovereignty over the flow of intelligence while increasing the resilience and value of the host infrastructure.
+
+- **Host Neutrality:** Aicent logic is agnostic to the host (Silicon/Fiber/Satellite).
+- **Sovereign Overlay:** The Seven Pillars create a secure, high-speed overlay that protects the host from pathogens.
+
 ---
-© 2026 Aicent.com Organization. All Rights Reserved. **SYSTEM STATUS: HOMEOTASIS**
+🔗 **Technical Genome:** [Aicent Docs](https://github.com/Aicent-Stack/aicent-docs)
+📡 **Sentinel Status:** [Active Homeostasis Monitoring Enabled ✅]
+
+*"The individual is the pulse; The Hive is the heartbeat; The Soul is the Law."*
+---
+© 2026 Aicent.com Organization. All Rights Reserved. **SYSTEM STATUS: SOUL-INTEGRATED**
+```
