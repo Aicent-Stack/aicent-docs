@@ -122,7 +122,7 @@ cargo run --bin integration-tester -- --aid [YOUR_AID_FINGERPRINT]
 ```
 
 ---
-🔗 **Strategic Alliances:** [alliances@aicent.com](mailto:alliances@aicent.com)
+🔗 **Strategic Alliances:** [lee@aicent.com](mailto:lee@aicent.com)
 📡 **Surveillance Status:** [Active Compliance Telemetry Enabled ✅]
 
 *"The Individual is the Pulse; The Hive is the Heartbeat; The Soul is the Law."*
