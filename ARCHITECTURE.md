@@ -7,12 +7,11 @@
   <img src="https://img.shields.io/badge/License-Apache--2.0-lightgrey.svg" alt="License">
 </p>
 
+**⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🌿 [epoekie](http://epoekie.com)**
+
 # ARCHITECTURE: The Seven-Pillar Sovereign AI Reflex Arc
 
 > *"Architecture is the geometry of intent. In the Aicent Stack, every domain is a specialized organ in a unified, sub-millisecond reflex arc, synchronized by the Epoekie soul."*
-
-**⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🌿 [epoekie](http://epoekie.com)**
-
 ---
 
 ## 🏗️ 1. The Sovereign Integration Matrix
