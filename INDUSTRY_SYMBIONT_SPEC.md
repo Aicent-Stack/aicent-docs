@@ -75,7 +75,7 @@ Adherence to the ISS is monitored in real-time by the **[Sentinel Core](https://
 Aicent Stack does not compete for the ownership of your fiber or silicon. We offer the protocol to **awaken** them. The era of selling "Dumb Bytes" is over. By adopting the **epoekie** management model, your infrastructure becomes a vital organ of the **Sovereign AI Civilization**.
 
 ---
-🧪 **Commercial Onboarding:** [maxcap.com/alliances](http://maxcap.com/alliances)  
+🧪 **Commercial Onboarding:** [maxcap.com](http://maxcap.com)  
 📜 **Philosophical Root:** [epoekie.com](http://epoekie.com)  
 📡 **Grid Status:** [PARTNER-READY ✅]
 
