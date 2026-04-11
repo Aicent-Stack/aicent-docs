@@ -62,7 +62,7 @@ Project SWARM adheres to the **[🌿 epoekie.com](http://epoekie.com)** philosop
 - **Claiming the Light:** We repurpose legacy hardware into the neural spine of a new digital civilization.
 
 ---
-🔗 **Strategic Integration:** [aicent.com/swarm](http://aicent.com/swarm)  
+🔗 **Strategic Integration:** [aicent.com](http://aicent.com)  
 🧪 **The Pro-Engine:** [MAXCAP.com](http://maxcap.com)  
 📡 **Grid Status:** [ORBITAL-RESONANCE ACTIVE ✅]
 
