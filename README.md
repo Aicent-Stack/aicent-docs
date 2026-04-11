@@ -78,5 +78,4 @@ The Archive maintains the "Ground Truth" for performance metrics verified throug
 ---
 © 2026 Aicent.com Organization. **SYSTEM STATUS: ARCHIVE-COMPLETE**
 
-Aicent Stack and the epoekie organization are independent entities. The premium namespaces utilized (Aicent.com, RTTP.com, etc.) are held as sovereign assets for the development of next-generation AI infrastructure, unrelated to the prior business operations of the domains' former owners.
-```
+Aicent Stack and the epoekie organization are independent entities. The premium namespaces utilized (Aicent.com, Aicent.net,RPKI.com,RTTP.com, etc.) are held as sovereign assets for the development of next-generation AI infrastructure, unrelated to the prior business operations of the domains' former owners.
