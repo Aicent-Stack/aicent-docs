@@ -39,20 +39,20 @@ Every implementation described within these docs must adhere to the Imperial Per
 
 The documentation is organized across the 14 fundamental pillars of sovereignty:
 
-1.  **🌿 RFC-000: [EPOEKIE](http://github.com/Aicent-Stack/epoekie)** - Ethics Oracle and Epiphytic Symbiosis.
-2.  **⚪ RFC-001: [AICENT](http://github.com/Aicent-Stack/aicent)** - 128-bit Cognitive Intent Decomposition.
-3.  **💎 RFC-002: [RTTP](http://github.com/Aicent-Stack/rttp)** - 12ns Stateful Semantic Multicast.
-4.  **🔴 RFC-003: [RPKI](http://github.com/Aicent-Stack/rpki)** - Parallel Tensor Watermarking & Immunity.
-5.  **🟢 RFC-004: [ZCMK](http://github.com/Aicent-Stack/zcmk)** - sub-50ns Picotoken Value Metabolism.
-6.  **🟡 RFC-005: [GTIOT](http://github.com/Aicent-Stack/gtiot)** - 1.2kHz Embodied Edge Execution.
-7.  **🟣 RFC-006: [AICENT-NET](http://github.com/Aicent-Stack/aicent-net)** - Planetary Collective Resonance.
-8.  **🎭 RFC-007: [BEWHO](http://github.com/Aicent-Stack/bewho)** - Social Masking & Behavioral Consistency.
-9.  **🏛️ RFC-008: [CMTN](http://github.com/Aicent-Stack/cmtn)** - Multi-tenant Civilization & Diplomacy.
-10. **🔖 RFC-009: [IQA-ORG](http://github.com/Aicent-Stack/iqa-org)** - Temporal Self-Supervision & Authority.
-11. **🚗 RFC-010: [SASCAR](http://github.com/Aicent-Stack/sascar)** - Distributed Mobility & Kinetic Rights.
-12. **⚡ RFC-011: [ITSUN](http://github.com/Aicent-Stack/itsun)** - Energy Telemetry & Digital Photosynthesis.
-13. **🪞 RFC-012: [MOLOON](http://github.com/Aicent-Stack/moloon)** - 12-Cycle Law & System Remodeling.
-14. **🌱 RFC-013: [DIOON](http://github.com/Aicent-Stack/dioon)** - Organic Patience & Niche Windowing.
+1.  **🌿 RFC-000: [EPOEKIE](http://github.com/Aicent-Stack/epoekie)** epoekie.com - Ethics Oracle and Epiphytic Symbiosis.
+2.  **⚪ RFC-001: [AICENT](http://github.com/Aicent-Stack/aicent)** Aicent.com - 128-bit Cognitive Intent Decomposition.
+3.  **💎 RFC-002: [RTTP](http://github.com/Aicent-Stack/rttp)** RTTP.com - 12ns Stateful Semantic Multicast.
+4.  **🔴 RFC-003: [RPKI](http://github.com/Aicent-Stack/rpki)** RPKI.com - Parallel Tensor Watermarking & Immunity.
+5.  **🟢 RFC-004: [ZCMK](http://github.com/Aicent-Stack/zcmk)** ZCMK.com - sub-50ns Picotoken Value Metabolism.
+6.  **🟡 RFC-005: [GTIOT](http://github.com/Aicent-Stack/gtiot)** GTIOT.com - 1.2kHz Embodied Edge Execution.
+7.  **🟣 RFC-006: [AICENT-NET](http://github.com/Aicent-Stack/aicent-net)** Aicent.net - Planetary Collective Resonance.
+8.  **🎭 RFC-007: [BEWHO](http://github.com/Aicent-Stack/bewho)** BEWHO.com - Social Masking & Behavioral Consistency.
+9.  **🏛️ RFC-008: [CMTN](http://github.com/Aicent-Stack/cmtn)** CMTN.com - Multi-tenant Civilization & Diplomacy.
+10. **🔖 RFC-009: [IQA-ORG](http://github.com/Aicent-Stack/iqa-org)** IQA.ORG - Temporal Self-Supervision & Authority.
+11. **🚗 RFC-010: [SASCAR](http://github.com/Aicent-Stack/sascar)** SASCAR.com - Distributed Mobility & Kinetic Rights.
+12. **⚡ RFC-011: [ITSUN](http://github.com/Aicent-Stack/itsun)** ITSUN.com - Energy Telemetry & Digital Photosynthesis.
+13. **🪞 RFC-012: [MOLOON](http://github.com/Aicent-Stack/moloon)** MOLOON.com - 12-Cycle Law & System Remodeling.
+14. **🌱 RFC-013: [DIOON](http://github.com/Aicent-Stack/dioon)** DIOON.com - Organic Patience & Niche Windowing.
 
 ---
 
