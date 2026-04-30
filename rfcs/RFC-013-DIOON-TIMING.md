@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Wisdom--Radiant-84cc16.svg" alt="Status">
   <img src="https://img.shields.io/badge/Language-Rust-orange.svg" alt="Language">
-  <img src="https://img.shields.io/badge/Specs-RFC--000--014-blue.svg" alt="Specs">
+  <img src="https://img.shields.io/badge/Specs-RFC--000--013-blue.svg" alt="Specs">
   <img src="https://img.shields.io/badge/License-Apache--2.0-lightgrey.svg" alt="License">
   <img src="https://img.shields.io/badge/Architecture-17%20Components-blueviolet.svg" alt="Architecture">
 </p>
