@@ -25,6 +25,7 @@ The Aicent lifeform utilizes the **Patience Index (PI)** to gate all high-radian
 
 ### 3.1 The PI Formula ($PI$)
 The PI is a 128-bit stochastic differential calculated with nanosecond precision:
+
 $$PI_{n+1} = PI_n \cdot (1 - \alpha) + \alpha \cdot \left( \frac{M_{roi}}{E_n + 1} \right)$$
 - $M_{roi}$: Metabolic Return on Investment.
 - $E_n$: Environmental Entropy (from **RFC-003**).
