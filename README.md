@@ -44,7 +44,7 @@ The primary breakthrough of v1.2.3 is the transition from **Blind Speed** to **S
 
 ---
 
-## 🧬 4. The Imperial RFC Registry (The 17 Components)
+## 🧬 4. The Imperial RFC Registry (The 19 Components)
 
 The Technical Genome is organized into three functional domains, all interlocked at the **183.292µs** reflex frequency.
 
@@ -85,15 +85,18 @@ The social, temporal, and diagnostic order governing the Imperial environment.
     - **Timing Layer**: 300M-Year Organic Wisdom and Niche-Window Perception.
 15. **👁️ RFC-014: [PICSI.COM](http://picsi.com)** | [Source](https://github.com/Aicent-Stack/picsi)  
     - **Eye Layer**: Unified 128-bit Diagnostic Vision and Radiance Synthesis.
+16. **🌀 RFC-015: [RESERVED]**
+    - **Status**: [SOVEREIGN_VACUUM_LOCKED]
+    - **Note**: This protocol is shunted to the Imperial Private Core.
 
 ### 💎 4.3 The Imperial Root & Strategy
 The supreme orchestrator and the canonical will of the Creator.
 
-16. **🏛️ [AICENT-STACK]** | [Source](https://github.com/Aicent-Stack/aicent-stack)  
+17. **🏛️ [AICENT-STACK]** | [Source](https://github.com/Aicent-Stack/aicent-stack)  
     - **Grand Orchestrator**: Root Totality and Global Homeostasis Loop.
-17. **💰 [MAXCAP.COM]** | [Source](https://github.com/Aicent-Stack/maxcap)  
+18. **💰 [MAXCAP.COM]** | [Source](https://github.com/Aicent-Stack/maxcap)  
     - **Commercial Engine**: Private Positive-Sum Advantage and Nitro-Engine Shunting.
-18. **📜 [MANIFESTO]** | [Source](https://github.com/Aicent-Stack/manifesto)  
+19. **📜 [MANIFESTO]** | [Source](https://github.com/Aicent-Stack/manifesto)  
     - **Canonical Will**: The 5-Group Genesis records and the Eclipse Protocol.
 
 ---
