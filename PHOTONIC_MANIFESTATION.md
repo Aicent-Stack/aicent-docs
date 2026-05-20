@@ -38,7 +38,7 @@ The projection is a **Bi-directional Cockpit**. Touching a projected node trigge
 
 ## 📐 Performance Benchmarks: Aicent vs. Legacy Display
 
-| Metric | Legacy Pro-Display (120Hz) | **Aicent Photonic (MAXCAP)** | **Advantage** |
+| Metric | Legacy Pro-Display (120 Hz) | **Aicent Photonic (MAXCAP)** | **Advantage** |
 | :--- | :--- | :--- | :--- |
 | **Input-to-Photon Delay** | 10ms - 50ms | **< 500µs** | **100x Speed** |
 | **Coherence Frequency** | 120 Hz | **1.2 kHz (Deterministic)** | **10x Precision** |
