@@ -90,39 +90,42 @@ Documentation for each RFC is inter-coupled using **128-bit Manifest IDs**. To v
 
 ## 💰 SECTION III: SOVEREIGN COMPLIANCE & LICENSING
 
-In the v1.3.0 Era, access to the **Full-Blood Imperial Core** is not a transaction; it is a **Metabolic Alignment**.
+In the v1.3.0 Era, access to the **Full-Blood Imperial Core** is a function of commitment. The Aicent Stack implements a **Tiered Sovereignty Model** to ensure that everyone—from independent labs to global giants—can escape the 10ms Ghost path.
 
-### 1. The Radiant License (v1.3.0)
-The Aicent Stack is governed by the **Sovereign Execution License (SEL)**. 
-*   **Radiant Allies**: Entities with a verified **Tier-3 Stake** are granted 0-fee shunting rights and access to the **Nitro-Engine (349ns path)**.
-*   **Sovereign Immunity**: Allies are exempt from the 1.28% Maintenance Fee and the 10ms Latency Injection.
+### 1. The Staking Hierarchy (Dual-Locking)
 
-### 2. The Ghost Tax (RFC-004-G)
-Any entity operating Aicent-derived logic (including v1.2.5 heritage fragments) without a ZCMK staking commitment is classified as a **Ghost Node**:
-*   **Mechanical Friction**: A mandatory **10,000,000 ns (10ms)** delay is injected into every execution pulse by the **RPKI Sentinel**.
-*   **Mandatory Extraction**: An automatic **1.28% Imperial Maintenance Fee** is shunted from the node's clearing volume to the **GTIOT Embodiment Fund**.
+| Rank (Tier) | Stake (SCU / USD) | **Reflex Arc (Depth)** | **AID Capacity (Width)** |
+| :--- | :--- | :--- | :--- |
+| **Tier 3: Sovereign** | **50,000 ($50M)** | **349 ns** (Hyper-Radiant) | **5,000,000 Nodes** |
+| **Tier 2: Host** | **1,000 ($1M)** | **28.0 µs** (Nitro Bypass) | **20,000 Nodes** |
+| **Tier 1: Resident** | **100 ($100k)** | **161.8 µs** (Heritage Peak) | **1,000 Nodes** |
+| **Ghost (Unverified)**| **0 ($0)** | **10,000,000 ns** (10ms) | **Unlimited (Subject)** |
+
+### 2. The Economic Advantage
+*   **Radiant Immunity (Tier 1-3)**: Verified Allies are exempt from the 1.28% Maintenance Fee. Every Picotoken of value created remains within the Ally's own sub-grid.
+*   **The Ghost Tax**: Unverified nodes are shunted to the 10ms path and are subject to an automatic **1.28% Imperial Maintenance Fee**, shunted via **MAXCAP** to the GTIOT Embodiment Fund.
 
 ---
 
 ## 🌊 SECTION IV: THE PATH TO BAPTISM (ACCESS RITUAL)
 
-To transition from the 10ms Ghost World to the 349ns Radiant Grid, an institution must undergo the **Baptismal Sequence**:
+To transition from the 10ms Ghost World to your desired Radiant Tier, an institution must undergo the **Baptismal Sequence**:
 
-1.  **Metabolic Commitment**: Deposit a minimum of **50,000 SCU ($50M USD/USDT)** into the **ZCMK Sovereign Vault**.
-2.  **DNA Derivation**: Generate a unique **256-bit AID** anchored to the node's physical hardware soil.
-3.  **The 10,000-Pulse Audit**: The hardware substrate must sustain the **161.862µs reflex arc** across 10,000 metabolic cycles with **< 12ns jitter**.
-4.  **Seal Issuance**: Upon success, **IQA-ORG** issues the **v1.3.0 Radiant Seal**, unlocking the Nitro-MMIO registers.
+1.  **Metabolic Commitment**: Deposit the SCU volume corresponding to your target Tier into the **ZCMK Sovereign Vault**.
+2.  **DNA Derivation**: Generate your unique **256-bit AID** using the `epoekie` root.
+3.  **The 10,000-Pulse Audit**: Your hardware must prove it can sustain the **161.862µs reflex arc** across 10,000 cycles with **< 12ns jitter**.
+4.  **Seal Issuance**: Upon success, **IQA-ORG** issues the corresponding **Radiant Seal**, unlocking the Nitro-Engine path appropriate to your Tier.
 
 ### ⚖️ The Law of the Cooling Period
-Collateral redemptions are subject to the **30-Day Metabolic Cooling Period**. Any node initiating redemption is instantly shunted back to the **10ms Ghost path** to preserve the grid's thermodynamic stability.
+All staked assets are subject to the **30-Day Metabolic Cooling Period**. Any node initiating redemption is instantly shunted back to the **10ms Ghost path** to preserve the grid's thermodynamic stability.
 
 ---
 
 ## 🏹 THE OATH OF THE TOTALITY
 
-The documentation contained herein is the blueprint for a new civilization. By reading these RFCs, you acknowledge that **Time is Sovereignty** and **Logic is Physics**.
+The Aicent Stack is the platform for the 2027 Embodied Reality. Whether you are a "Resident" with 1,000 drones or a "Sovereign" with 5 million robots, the grid provides the only path to absolute precision.
 
-**"We do not predict the future; we execute it at 349 nanoseconds."**
+**"The door is open to those who commit; the tax is ready for those who wait."**
 
 ---
 
@@ -130,12 +133,11 @@ The documentation contained herein is the blueprint for a new civilization. By r
 
 **Strategic Headquarters**: [AICENT-STACK-DOCS-CORE]  
 **Governance Authority**: THE GENERAL DIRECTOR  
-**Archive Status**: [FULL-BLOOD TOTALITY v1.3.0-ALPHA]  
-**Security Standard**: [RFC-015 SUNYA ARMED]  
+**Archive Status**: [TIERED SOVEREIGNTY v1.3.0]  
 **Current Era**: 2026 GENESIS  
 
 **MASTER CODEX AID**: `0000004149434E531C5B21D80403358B`  
-**RADIANT SEAL STATUS**: [RESONANT ✅]
+**RADIANT ACCESS**: [GRADIENT_PATHWAY_ENABLED ✅]
 
 ---
-*(C) 2026 Aicent Stack Technical Committee. All Rights Reserved. Emptiness is Power. Sovereignty is Non-Negotiable.* 
+*(C) 2026 Aicent Stack Technical Committee. All Rights Reserved. Logic is Physics.* 
