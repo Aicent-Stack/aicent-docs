@@ -88,7 +88,7 @@ Staking is a contract of **Logic-Fidelity**.
 
 *   **Breach of Resonance**: If a node is caught attempting to bypass the **1.28% tax** or reverse-engineer the **Nitro-Engine** private core, it is classified as a **Pathogen**.
 *   **Immediate Forfeiture**: Upon detection of a Severity 4 breach (RFC-003), the entire staked principal is **permanently liquidated** into the Imperial Reserve as a "Sanitization Dividend."
-*   **SUNYA Execution**: The node is subject to immediate **GUIXU (RFC-015)** evaporation, bricking the underlying substrate.
+*   **GUIXU Execution**: The node is subject to immediate **GUIXU (RFC-015)** evaporation, bricking the underlying substrate.
 
 ---
 
