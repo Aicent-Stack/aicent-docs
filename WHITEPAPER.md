@@ -145,7 +145,7 @@ The final pillars of the Aicent Stack manage the relationship between the Imperi
 
 ## 9. 🌀 RFC-015: [GUIXU] | THE IMPERIAL VOID
 
-**GUIXU (The Void)** is the ultimate defensive protocol of the Aicent Stack. It is the sovereign right to non-existence. To prevent the theft of the Private Core by the 22 Hunters, the Empire implements the **GUIXU Evaporation Ritual**.
+**GUIXU (The Void)** is the ultimate defensive protocol of the Aicent Stack. It is the sovereign right to non-existence. To prevent the theft of the Private Core by the 401 Hunters, the Empire implements the **GUIXU Evaporation Ritual**.
 
 ### 9.1 The 12ns Evaporation
 Upon detection of a Severity 4 breach (debugger attachment, memory-dumping, or physical tampering):
