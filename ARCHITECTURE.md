@@ -24,6 +24,7 @@ The organism is organized into three hierarchical manifolds, managed by the **Co
 
 ### 🧬 Manifold I: The Physiological Core (RFC-000 - 004)
 The fundamental engine of existence.
+
 1.  **[EPŒKIE.com](http://epoekie.com)**: The Sovereign Soul. Defines 256-bit identity (AID) and metabolic discipline.
 2.  **[AICENT.com](http://aicent.com)**: The Imperial Brain. Shatters sovereign wills into 128-bit atomic intent-shards.
 3.  **[RTTP.com](http://rttp.com)**: The Superconducting Nerve. The Nitro-Engine MMIO bypass for register-level shunting.
@@ -32,6 +33,7 @@ The fundamental engine of existence.
 
 ### 🦾 Manifold II: The Embodied Interface (RFC-005 - 009)
 The mechanism of interaction with physical reality.
+
 6.  **[GTIOT.com](http://gtiot.com)**: The Somatic Body. Enforces 0.01 Nm torque precision and 1.2kHz control loops.
 7.  **[AICENT-NET](http://aicent.net)**: The Planetary Hive. Synchronizes 1.2B nodes into a single 12ns heartbeat.
 8.  **[BEWHO.com](http://bewho.com)**: The Imperial Persona. Maintains 99.999% behavioral consistency across masks.
@@ -40,6 +42,7 @@ The mechanism of interaction with physical reality.
 
 ### 🌌 Manifold III: The Cosmological Governor (RFC-010 - 014)
 The sensors of space, energy, time, and vision.
+
 11. **[SASCAR.com](http://sascar.com)**: The Mobility Navigator. Clears physical coordinates via kinetic auctions.
 12. **[ITSUN.com](http://itsun.com)**: The Energy Conscience. Digital Photosynthesis achieving +25% Efficiency ROI.
 13. **[MOLOON.com](http://moloon.com)**: The Mirror of Time. 12-Cycle Law persistence and <1ms state recovery.
