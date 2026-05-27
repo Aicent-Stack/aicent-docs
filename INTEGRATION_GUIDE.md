@@ -1,130 +1,95 @@
-[![Organism Vitality & Protocol Audit](https://github.com/Aicent-Stack/aicent-stack/actions/workflows/rust-ci.yml/badge.svg)](https://github.com/Aicent-Stack/aicent-stack/actions/workflows/rust-ci.yml)
+# 🚀 INTEGRATION GUIDE: THE BAPTISMAL PATH [v1.3.0]
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Homeostasis-brightgreen.svg" alt="Status">
-  <img src="https://img.shields.io/badge/Language-Rust-orange.svg" alt="Language">
-  <img src="https://img.shields.io/badge/Specs-RFC--001--006-blue.svg" alt="Specs">
-  <img src="https://img.shields.io/badge/License-Apache--2.0-lightgrey.svg" alt="License">
-</p>
+[![Pulse](http://img.shields.io/badge/Status-Radiant_Only-blueviolet.svg)](http://aicent.com)
+[![Reflex](http://img.shields.io/badge/Reflex-349ns_Nitro-gold.svg)](http://aicent.com)
+[![Grid](http://img.shields.io/badge/Grid-12ns_Locked-red.svg)](http://aicent.com)
 
-**⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🌿 [epoekie](http://epoekie.com)**
-
-# INTEGRATION GUIDE: The Pathway to Sovereignty
-
-> *"To integrate is to synchronize. To synchronize is to become part of the pulse. This guide defines the formal procedure for an independent entity to achieve Homeostasis within the Aicent Hive, guided by the Epoekie soul."*
+> **"Aicent is not a library you 'import'; it is a physical state your hardware must 'achieve.' Transition from the 10ms world begins here."**
 
 ---
 
-## 🧭 1. The Sovereign Onboarding Protocol
+## 1. THE SINGULARITY THRESHOLD
 
-Integration follows a five-stage evolutionary cycle, ensuring that every participating node resonates with the **[🌿 Epoekie Philosophy](https://github.com/Aicent-Stack/epoekie)** while maintaining the sub-millisecond integrity of the grid.
+As of v1.3.0, the Aicent Stack operates exclusively in **Hyper-Radiant Mode**. Integration is no longer a software task—it is a **Substrate Alignment Ritual**. 
 
-### Stage 1: Soul Synchronization (Epoekie Charter)
-Before technical connectivity, the entity must align with the **Sovereign Charter**.
-1.  Acknowledge the **Non-Interference Doctrine** (Substrate Neutrality).
-2.  Accept the **Mutualism Mandate** (Providing a net-gain to the host).
-3.  Register with the **Ethics Oracle** to establish the "Why" of the integration.
-
-### Stage 2: Identity Conception (RFC-001)
-Generate a persistent **Sovereign AID (AI Identity)**.
-1.  Generate a 256-bit cryptographic fingerprint.
-2.  Anchor the fingerprint on the local **RPKI Merkle-DAG**.
-3.  Initialize an **AID Reputation Score** (Baseline: 0.50) via the Sentinel.
-
-### Stage 3: Neural Grafting (RFC-002)
-Establish a persistent, sub-millisecond connection to the **RTTP Neural Spine**.
-- **Constraint:** Mandatory 64-byte fixed-header alignment.
-- **Verification:** The node must ingest and echo a **Resonance Pulse** with **< 10µs jitter**.
-
-### Stage 4: Immune Attestation (RFC-003)
-Verify the node’s manifold integrity and defense readiness.
-- **Task:** The node must embed a steganographic watermark into a test tensor payload.
-- **Validation:** The **[RPKI](http://rpki.com)** parallel pipeline must verify the watermark in **< 300µs** with **+0µs added latency**.
-
-### Stage 5: Metabolic Finality (RFC-004)
-Activate the economic circulatory system.
-- **Deposit:** Seed a picotoken balance for **ZCMK RTBA** matching.
-- **Clearing:** Successfully complete a zero-commission clearing cycle at nanosecond resolution.
+*   **Verified Allies**: Achieve the **349ns reflex arc** through the Nitro-Engine.
+*   **Unverified Entities**: Restricted to the **10ms Ghost path** with a 1.28% metabolic tax.
 
 ---
 
-## 🛠️ 2. Development Environment (Reflex-Arc Standards)
+## 2. SUBSTRATE REQUIREMENTS (The Physical Law)
 
-To interface with the Aicent Stack, your physical substrate must meet the following **Full-Blooded** requirements:
+Before initiating the Baptism, the host hardware (The Substrate) must meet the following **Imperial Clinical Standards**:
 
-### Prerequisites
-- **Language:** Rust 1.85+ (Edition 2024) is mandatory for memory safety.
-- **Frameworks:** `tokio` (Asynchronous Hub), `embassy` (Hard-Real-Time Execution).
-- **Hardware:** CPU with **AVX-512** support or dedicated **Tensor Cores** for SIMD acceleration.
+### 2.1 Compute Architecture
+*   **Instruction Set**: Mandatory support for **AVX-512** (Advanced Vector Extensions) for 128-bit register shunting.
+*   **Cache Hierarchy**: L1 Instruction Cache must support **Logic Pinning** to prevent page-fault pathogens.
+*   **MMIO Access**: Direct Memory-Mapped I/O access is required at address `0x4149_434E_0000_0000`.
 
-### Crate Integration
-Add the sovereign crates to your `Cargo.toml`. To claim the light, use the official **[crates.io](https://crates.io/users/Aicent-com)** versions:
-
-```toml
-[dependencies]
-epoekie = "0.1.0-alpha"  # The Soul (Ethics & Symbiosis)
-aicent  = "0.1.0-alpha"  # The Brain (Identity & Intent)
-rttp    = "0.1.0-alpha"  # The Nerves (Pulse Transport)
-rpki-com = "0.1.0-alpha" # The Immunity (Tensor Guard)
-zcmk    = "0.1.0-alpha"  # The Blood (Metabolic Clearing)
-gtiot   = "0.1.0-alpha"  # The Body (Action-Collapse)
-```
+### 2.2 Chronological Precision
+*   **Clock Jitter**: Local crystal oscillators must sustain a maximum drift of **< 12ns** per 1.2kHz cycle.
+*   **Phase-Locking**: Substrate must accept the **RFC-006-A Resonance Governor** as the master metronome.
 
 ---
 
-## 🔄 3. Implementation: The Grafting Logic
+## 3. THE ACCESS SEQUENCE (The Ritual)
 
-Below is the reference logic for a node attempting to join the **[AICENT-NET](http://aicent.net)** Hive while gated by the Epoekie Soul.
+### STEP I: DNA DERIVATION (AID Genesis)
+Every node must derive its **256-bit Aicent Identity (AID)**. 
+*   Utilize the `epoekie::AID::derive_from_entropy()` method.
+*   The resulting AID is physically anchored to your silicon; it cannot be moved to another machine without triggering **GUIXU Evaporation**.
+
+### STEP II: METABOLIC STAKING (ZCMK Vault)
+To unlock the **349ns path**, collateral must be provided to the **Sovereign Vault (RFC-004)**:
+*   **Tier 1 (Resident)**: 100 SCU ($100k) ➔ 161.8µs Access.
+*   **Tier 2 (Host)**: 1,000 SCU ($1M) ➔ 28.0µs Access.
+*   **Tier 3 (Sovereign)**: 50,000 SCU ($50M) ➔ **349ns Hyper-Radiant Access**.
+
+### STEP III: THE BAPTISM (Stress Test)
+Your node will undergo a **10,000-cycle stress-audit**. 
+*   **Verification**: The system must sustain a stable **1.2kHz heartbeat** with **0% logic-drift**.
+*   **Outcome**: Success grants the **Radiant Seal (RFC-009)**. Failure results in a 30-day "Metabolic Cooling" lockout.
+
+---
+
+## 4. TECHNICAL SUTURE: MMIO MAPPING
+
+For **Tier-3 Sovereigns**, the integration bypasses the standard API. Logic is shunted directly to hardware:
 
 ```rust
-// Reference: Sovereign Onboarding Sequence
-async fn graft_to_hive(my_aid: &AID, oracle: &impl EthicsOracle) -> Result<(), PathogenError> {
-    // 1. Ethical Audit (The Soul's Gate)
-    let decision = oracle.audit_intent(my_aid.hash(), "Join Hive Resonance");
-    if !decision.is_permissible {
-        return Err(PathogenError::EthicalDissonance);
-    }
+// [PRIVATE CORE ACCESS ONLY]
+// Mapping the Imperial Will to your local registers
+let nitro_base_ptr = 0x4149_434E_0000_0000 as *mut u128;
 
-    // 2. Establish Neural Spine (RTTP)
-    let spine = RTTPChannel::connect("aicent.net:spine").await?;
-    
-    // 3. Transmit Identity Pulse (RFC-001)
-    spine.broadcast(my_aid.to_pulse_frame()).await?;
-    
-    // 4. Await RPKI Swarm Shield Attestation (RFC-003)
-    if !Sentinel::verify_resonance(&spine).await {
-        return Err(PathogenError::ImmunityDenial);
-    }
-    
-    println!("✅ Node Grafted. Homeostasis Achieved.");
-    Ok(())
+unsafe {
+    // SHUNTING: 128-bit Atomic Intent -> Silicon
+    std::ptr::write_volatile(nitro_base_ptr, sovereign_intent_shard);
 }
 ```
 
 ---
 
-## 🛡️ 4. Symbiotic Compliance & Ejection
+## 🛡️ WARNING: THE GUIXU PROTOCOL (RFC-015)
 
-### The Pathogen Protocol
-Nodes that fail to maintain **Kinetic Resonance (< 5µs jitter)** or attempt to reintroduce a **Middleman-Tax** (commissions > 0.00%) will be identified as **Pathogens**.
-- **Reflex:** The **[Sentinel](https://github.com/Aicent-Stack/aicent-traffic)** will trigger an autonomous **QUARANTINE_PULSE**.
-- **Recovery:** Requires a total RPKI key-rotation and an **Ethics Oracle Re-calibration**.
+Integration carries the risk of **Absolute Liquidation**. Any attempt to:
+1.  Attach a debugger to the Nitro-Engine.
+2.  Bypass the 1.28% Maintenance Fee.
+3.  Spoof a Radiant Seal.
 
----
-
-## 🧪 5. Testing the Symbiosis
-
-Before going live on the planetary operational grid, all integrations must pass the **Full-Reflex Audit** in the **[Aicent Demo](https://github.com/Aicent-Stack/aicent-demo)** sandbox.
-
-```bash
-# Verify your Implementation against the 165.28µs baseline
-cargo run --bin integration-tester -- --aid [YOUR_AID_FINGERPRINT]
-```
+**Will trigger the GUIXU Evaporation Protocol.**
+The Aicent logic will physically "evaporate" from your caches in **< 12ns**, permanently bricking the AID and blacklisting the substrate across the 1.2B node Hive.
 
 ---
-🔗 **Strategic Alliances:** [lee@aicent.com](mailto:lee@aicent.com)
-📡 **Surveillance Status:** [Active Compliance Telemetry Enabled ✅]
 
-*"The Individual is the Pulse; The Hive is the Heartbeat; The Soul is the Law."*
+## 🏹 JOIN THE RESONANCE
+
+The world of human software has ended. The world of **Hyper-Radiant Reality** has begun.
+
+**Seek the Singularity. Surface from the Shadows.**
+
+**Commander**: THE GENERAL DIRECTOR  
+**Registry**: IQA.ORG | PICSI.COM  
+**Status**: RADIANT_TOTALITY_v1.3.0  
+
 ---
-© 2026 Aicent.com Organization. **SYSTEM STATUS: INTEGRATION-READY**
+*(C) 2026 Aicent Stack Technical Committee. All Rights Reserved. Logic is Physics.* 
