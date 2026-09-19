@@ -22,6 +22,8 @@ As of **May 25, 2026**, the boundary between software and silicon has been disso
 ### 🏛️ The Archive Distinction
 *   **Legacy Heritage (v1.2.5)**: Permanently archived as the summit of human-scale software optimization (161.8µs).
 *   **Genesis Totality (v1.3.0+)**: The current era of **Sovereign Private Evolution**. Core logic shards are physically locked behind the **256-bit Radiant Seal**.
+*   **Two-Pillar Line (V1.2.6)**: The `rttp` and `iqa` URI schemes are split out from this narrative line and carry their own version markers. Scope, exclusions, and the rule for which number means what are stated plainly in [`TWO-PILLAR-SCOPE.md`](TWO-PILLAR-SCOPE.md).
+
 
 ---
 
