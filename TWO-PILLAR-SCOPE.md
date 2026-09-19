@@ -18,7 +18,7 @@ registration under RFC 7595:
 | Pillar | Scheme | What the URI names | Specification |
 | :--- | :--- | :--- | :--- |
 | **Intent addressing** | `rttp` | a claim of intent directed at an identified subject | [RFC-002](https://rttp.com/RFC-002/) |
-| **Verification / attestation** | `iqa` | the attestation standing of a subject, as reported by a named organ | [RFC-009](https://iqa.org/RFC-009/) |
+| **Citable standing (attestation)** | `iqa` | the attestation standing of a subject, as reported by a named organ | [RFC-009](https://iqa.org/RFC-009/) |
 
 The two schemes are **two halves of one addressing model**:
 
@@ -122,7 +122,7 @@ and verification sections.
 | `iqa` scheme, specification material, Rust crate | <https://github.com/Aicent-Stack/iqa-org> · <https://iqa.org/RFC-009/> |
 | Reference sites | <https://rttp.com/> · <https://iqa.org/> |
 | Conformance vectors | shipped inside every package; `sha256 b28de8c7…` (`rttp`) · `sha256 9ec8d9b1…` (`iqa`) |
-| Registration dossiers | `RTTP_IANA_URI_SCHEME_REGISTRATION.md` · `IQA_IANA_URI_SCHEME_REGISTRATION.md` (this repository) |
+| Registration tickets | IANA `#1459939` (`rttp`) · `#1459963` (`iqa`) — Provisional requests, submitted and under review |
 
 ## 8. Citation rules
 
