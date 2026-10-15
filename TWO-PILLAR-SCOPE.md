@@ -17,8 +17,8 @@ registration under RFC 7595:
 
 | Pillar | Scheme | What the URI names | Specification |
 | :--- | :--- | :--- | :--- |
-| **Intent addressing** | `rttp` | a claim of intent directed at an identified subject | [RFC-002](https://rttp.com/RFC-002/) |
-| **Citable standing (attestation)** | `iqa` | the attestation standing of a subject, as reported by a named organ | [RFC-009](https://iqa.org/RFC-009/) |
+| **Intent addressing** | `rttp` | a claim of intent directed at an identified subject | [AICENT-002](https://rttp.com/AICENT-002/) |
+| **Citable standing (attestation)** | `iqa` | the attestation standing of a subject, as reported by a named organ | [AICENT-009](https://iqa.org/AICENT-009/) |
 
 The two schemes are **two halves of one addressing model**:
 
@@ -56,7 +56,7 @@ unverifiable. The split keeps the reviewable thing reviewable.
 * The `rttp` scheme: syntax, exclusions, default operation, client requirements.
 * The `iqa` scheme: syntax, the closed sets (`organ`, `action`), action safety classes,
   the naming note.
-* The attestation envelope format as specified in RFC-009.
+* The attestation envelope format as specified in AICENT-009.
 * The published conformance vectors and the three reference implementations (Rust, Python,
   JavaScript) that replay them.
 * The two IANA registration requests.
@@ -118,8 +118,8 @@ and verification sections.
 
 | Artifact | Location |
 | :--- | :--- |
-| `rttp` scheme, specification material, Rust crate | <https://github.com/Aicent-Stack/rttp> · <https://rttp.com/RFC-002/> |
-| `iqa` scheme, specification material, Rust crate | <https://github.com/Aicent-Stack/iqa-org> · <https://iqa.org/RFC-009/> |
+| `rttp` scheme, specification material, Rust crate | <https://github.com/Aicent-Stack/rttp> · <https://rttp.com/AICENT-002/> |
+| `iqa` scheme, specification material, Rust crate | <https://github.com/Aicent-Stack/iqa-org> · <https://iqa.org/AICENT-009/> |
 | Reference sites | <https://rttp.com/> · <https://iqa.org/> |
 | Conformance vectors | shipped inside every package; `sha256 b28de8c7…` (`rttp`) · `sha256 9ec8d9b1…` (`iqa`) |
 | Registration tickets | IANA `#1459939` (`rttp`) · `#1459963` (`iqa`) — Provisional requests, submitted and under review |
@@ -139,4 +139,4 @@ and verification sections.
 
 *Revision of this document: 2026-09-19. It is a scope statement for the two-pillar line; it
 is not a specification, and it adds no requirement to either scheme. The specifications
-themselves are RFC-002 and RFC-009.*
+themselves are AICENT-002 and AICENT-009.*

@@ -40,7 +40,7 @@ The Soul Layer enforces the ethical and symbiotic constants of the organism. It 
 
 ---
 
-## 🔴 3. Immune System Performance (rpki-com / RFC-003)
+## 🔴 3. Immune System Performance (rpki-com / AICENT-003)
 
 The RPKI layer provides parallel SIMD-accelerated defense, ensuring the "Security Tax" is zeroed out.
 
@@ -51,7 +51,7 @@ The RPKI layer provides parallel SIMD-accelerated defense, ensuring the "Securit
 
 ---
 
-## 🟢 4. Metabolic Clearing (zcmk.com / RFC-004)
+## 🟢 4. Metabolic Clearing (zcmk.com / AICENT-004)
 
 The ZCMK engine facilitates high-frequency value circulation with picotoken-scale granularity.
 
@@ -62,7 +62,7 @@ The ZCMK engine facilitates high-frequency value circulation with picotoken-scal
 
 ---
 
-## 🟡 5. Embodied Execution (gtiot.com / RFC-005)
+## 🟡 5. Embodied Execution (gtiot.com / AICENT-005)
 
 GTIOT bridges the digital-physical divide with hard-real-time sensory-motor loops.
 
@@ -73,7 +73,7 @@ GTIOT bridges the digital-physical divide with hard-real-time sensory-motor loop
 
 ---
 
-## 🟣 6. Grid Sovereignty (aicent.net / RFC-006)
+## 🟣 6. Grid Sovereignty (aicent.net / AICENT-006)
 
 The global operational grid scales the individual reflex into collective intelligence.
 

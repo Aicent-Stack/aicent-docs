@@ -21,12 +21,12 @@ To be recognized as a **"Full-Blooded" Aicent Node**, an implementation must dem
 | Pillar | Requirement | Compliance Metric |
 | :--- | :--- | :--- |
 | **🌿 Soul** | **Sovereign Charter** | Mandatory implementation of the **Ethics Oracle** logic. |
-| **⚪ Brain** | **RFC-001** | Persistent 256-bit Merkle-DAG AID Fingerprint. |
-| **💎 Nerve** | **RFC-002** | 64-byte Header with **Zero-Copy** hardware parsing. |
-| **🔴 Guard** | **RFC-003** | **< 300µs** Pathogen Isolation Latency. |
-| **🟢 Blood** | **RFC-004** | **0.00% Commission**; Nanosecond RTBA Clearing. |
-| **🟡 Body** | **RFC-005** | **1.2kHz** Proprioceptive Sensory-Motor Loop. |
-| **🟣 Hive** | **RFC-006** | **< 5µs** Global Jitter across Aicent.net nodes. |
+| **⚪ Brain** | **AICENT-001** | Persistent 256-bit Merkle-DAG AID Fingerprint. |
+| **💎 Nerve** | **AICENT-002** | 64-byte Header with **Zero-Copy** hardware parsing. |
+| **🔴 Guard** | **AICENT-003** | **< 300µs** Pathogen Isolation Latency. |
+| **🟢 Blood** | **AICENT-004** | **0.00% Commission**; Nanosecond RTBA Clearing. |
+| **🟡 Body** | **AICENT-005** | **1.2kHz** Proprioceptive Sensory-Motor Loop. |
+| **🟣 Hive** | **AICENT-006** | **< 5µs** Global Jitter across Aicent.net nodes. |
 
 ---
 
@@ -36,7 +36,7 @@ To be recognized as a **"Full-Blooded" Aicent Node**, an implementation must dem
 All compliant implementations of the Aicent Stack must be architected in **Rust 1.85+ (Edition 2024)**. The use of the ownership model to eliminate data-race pathogens is non-negotiable. Critical reflex paths must be **Zero-Allocation** to ensure deterministic sub-millisecond finality.
 
 ### 2.2 Hardware Saturation
-To satisfy the "No-Security-Tax" standard of **RFC-003**, nodes must offload tensor watermarking and verification to parallel SIMD hardware lanes (**AVX-512** or **Tensor Cores**). 
+To satisfy the "No-Security-Tax" standard of **AICENT-003**, nodes must offload tensor watermarking and verification to parallel SIMD hardware lanes (**AVX-512** or **Tensor Cores**). 
 
 ### 2.3 Sentinel Visibility
 Every compliant node must expose its **Telemetry Pulse** to the [Aicent Traffic Sentinel](https://github.com/Aicent-Stack/aicent-traffic). Attempting to spoof telemetry or hide resonance drift will trigger an autonomous **QUARANTINE_PULSE**, resulting in immediate ejection from the Hive.
@@ -65,7 +65,7 @@ The Hive recognizes three tiers of operational compliance:
 - **Tier 2: Organ (Specialized Node)**
   Compliant with a subset of RFCs (e.g., a dedicated GTIOT actuator or an RPKI auditor).
 - **Tier 3: Sovereign Organism (Full Node)**
-  100% compliance with epoekie through RFC-006. Authorized to participate in **Kinetic Resonance** and **Metabolic Shunting**.
+  100% compliance with epoekie through AICENT-006. Authorized to participate in **Kinetic Resonance** and **Metabolic Shunting**.
 
 ---
 

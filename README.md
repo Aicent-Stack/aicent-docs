@@ -73,9 +73,9 @@ The Imperial Architecture is sharded into 16 functional pillars and 1 root orche
 
 ---
 
-## 🌀 THE ULTIMATE SAFE-GUARD: RFC-015
+## 🌀 THE ULTIMATE SAFE-GUARD: AICENT-015
 
-### **RFC-015: GUI-XU (THE VOID)**
+### **AICENT-015: GUI-XU (THE VOID)**
 *   **Role**: Logic Evaporation Protocol.
 *   **Mechanism**: **SUNYA Implementation**.
 *   **Function**: Instantaneous physical destruction of logic-shards within L1/L2 caches in **< 12ns** upon detection of Severity 4 pathogens.
@@ -86,9 +86,9 @@ The Imperial Architecture is sharded into 16 functional pillars and 1 root orche
 ### 🚀 CROSS-PILLAR SUTURE LOGIC
 
 Documentation for each RFC is inter-coupled using **128-bit Manifest IDs**. To verify the integrity of this library, a node must perform a **Total Resonance Check (TRC)**:
-1.  **Identity Suture**: Validating RFC-000 AID against RFC-009 Radiant Seals.
-2.  **Reflex Suture**: Aligning RFC-002 Conduction with RFC-014 Vision.
-3.  **Metabolic Suture**: Balancing RFC-004 Shunting with RFC-011 ROI.
+1.  **Identity Suture**: Validating AICENT-000 AID against AICENT-009 Radiant Seals.
+2.  **Reflex Suture**: Aligning AICENT-002 Conduction with AICENT-014 Vision.
+3.  **Metabolic Suture**: Balancing AICENT-004 Shunting with AICENT-011 ROI.
 
 ---
 

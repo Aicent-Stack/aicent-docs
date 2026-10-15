@@ -28,7 +28,7 @@ Before initiating the Baptism, the host hardware (The Substrate) must meet the f
 
 ### 2.2 Chronological Precision
 *   **Clock Jitter**: Local crystal oscillators must sustain a maximum drift of **< 12ns** per 1.2kHz cycle.
-*   **Phase-Locking**: Substrate must accept the **RFC-006-A Resonance Governor** as the master metronome.
+*   **Phase-Locking**: Substrate must accept the **AICENT-006-A Resonance Governor** as the master metronome.
 
 ---
 
@@ -40,7 +40,7 @@ Every node must derive its **256-bit Aicent Identity (AID)**.
 *   The resulting AID is physically anchored to your silicon; it cannot be moved to another machine without triggering **GUIXU Evaporation**.
 
 ### STEP II: METABOLIC STAKING (ZCMK Vault)
-To unlock the **349ns path**, collateral must be provided to the **Sovereign Vault (RFC-004)**:
+To unlock the **349ns path**, collateral must be provided to the **Sovereign Vault (AICENT-004)**:
 *   **Tier 1 (Resident)**: 100 SCU ($100k) ➔ 161.8µs Access.
 *   **Tier 2 (Host)**: 1,000 SCU ($1M) ➔ 28.0µs Access.
 *   **Tier 3 (Sovereign)**: 50,000 SCU ($50M) ➔ **349ns Hyper-Radiant Access**.
@@ -48,7 +48,7 @@ To unlock the **349ns path**, collateral must be provided to the **Sovereign Vau
 ### STEP III: THE BAPTISM (Stress Test)
 Your node will undergo a **10,000-cycle stress-audit**. 
 *   **Verification**: The system must sustain a stable **1.2kHz heartbeat** with **0% logic-drift**.
-*   **Outcome**: Success grants the **Radiant Seal (RFC-009)**. Failure results in a 30-day "Metabolic Cooling" lockout.
+*   **Outcome**: Success grants the **Radiant Seal (AICENT-009)**. Failure results in a 30-day "Metabolic Cooling" lockout.
 
 ---
 
@@ -69,7 +69,7 @@ unsafe {
 
 ---
 
-## 🛡️ WARNING: THE GUIXU PROTOCOL (RFC-015)
+## 🛡️ WARNING: THE GUIXU PROTOCOL (AICENT-015)
 
 Integration carries the risk of **Absolute Liquidation**. Any attempt to:
 1.  Attach a debugger to the Nitro-Engine.

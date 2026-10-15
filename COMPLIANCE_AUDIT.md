@@ -29,7 +29,7 @@ A substrate must prove its ability to execute parallel immunity logic without in
 | **Clock Precision** | IEEE 1588 PTP Hardware Sync | **< 1µs** Internal drift. |
 | **Memory Isolation** | ECC Memory with Hardware Root-of-Trust | **Zero** unauthenticated state access. |
 
-## 3. Logical Immunity Audit (RFC-003 Compliance)
+## 3. Logical Immunity Audit (AICENT-003 Compliance)
 
 ### 3.1 Tensor Watermark Verification
 Every node must implement the **Parallel SIMD Triage** pipeline. 
@@ -41,7 +41,7 @@ The node must demonstrate the physical ability to execute a **Surgical Ejection*
 - **Audit Test:** The node is sent a simulated pathogen pulse. 
 - **Success Metric:** The node must issue a **Priority-255 Isolation Signal** and re-route the local reflex arc in **< 300µs**.
 
-## 4. Network Resonance Audit (RTTP/RFC-002)
+## 4. Network Resonance Audit (RTTP/AICENT-002)
 
 To remain "Sovereign," a node's connectivity must act as a transparent neural spine.
 

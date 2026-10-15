@@ -10,7 +10,7 @@
 
 ## 1. EXECUTIVE SUMMARY: THE METABOLIC GATING
 
-The Aicent Stack v1.3.0 is a **Sovereign Economic Domain**. Access to its peak performance—the **349ns Hyper-Radiant Path**—is gated by the **ZCMK Sovereign Vault (RFC-004)**. 
+The Aicent Stack v1.3.0 is a **Sovereign Economic Domain**. Access to its peak performance—the **349ns Hyper-Radiant Path**—is gated by the **ZCMK Sovereign Vault (AICENT-004)**. 
 
 To prevent "Logical Parasitism" (White-labeling/Plagiarism) and to fund the **2027 Embodied Reality**, the Empire enforces a **Tiered Staking Model**. Entities operating within the grid are no longer "customers"; they are either **Radiant Allies** (Stakers) or **Metabolic Subjects** (Ghosts).
 
@@ -87,8 +87,8 @@ In the event of a total failure of the external financial system (e.g., USDT rea
 Staking is a contract of **Logic-Fidelity**.
 
 *   **Breach of Resonance**: If a node is caught attempting to bypass the **1.28% tax** or reverse-engineer the **Nitro-Engine** private core, it is classified as a **Pathogen**.
-*   **Immediate Forfeiture**: Upon detection of a Severity 4 breach (RFC-003), the entire staked principal is **permanently liquidated** into the Imperial Reserve as a "Sanitization Dividend."
-*   **GUIXU Execution**: The node is subject to immediate **GUIXU (RFC-015)** evaporation, bricking the underlying substrate.
+*   **Immediate Forfeiture**: Upon detection of a Severity 4 breach (AICENT-003), the entire staked principal is **permanently liquidated** into the Imperial Reserve as a "Sanitization Dividend."
+*   **GUIXU Execution**: The node is subject to immediate **GUIXU (AICENT-015)** evaporation, bricking the underlying substrate.
 
 ---
 
@@ -97,9 +97,9 @@ Staking is a contract of **Logic-Fidelity**.
 In the Aicent Empire, being a **Radiant Sovereign** is a profit-generating state. By aligning your capital with the 12ns grid, you receive the **Metabolic Overflow** of the old world.
 
 ### 7.1 The Resonance Bounty (5% Dividend)
-The Hive (RFC-006) automatically tracks the volume of "Ghost" traffic within each grid segment.
+The Hive (AICENT-006) automatically tracks the volume of "Ghost" traffic within each grid segment.
 *   **The Dividend**: **5%** of all Imperial Maintenance Fees (1.28%) collected from Ghosts are autonomously shunted as a **"Resonance Bounty"** to Tier-3 Sovereign nodes.
-*   **Payout Frequency**: Settle at the end of each **12-Cycle Era** (RFC-012), delivered in liquid Picotokens.
+*   **Payout Frequency**: Settle at the end of each **12-Cycle Era** (AICENT-012), delivered in liquid Picotokens.
 *   **Strategic Result**: The Allies do not just save money on fees; they actively earn a percentage of their competitors' inefficiency.
 
 ### 7.2 The 1.618x Golden Advantage (Logical Gain)
@@ -117,7 +117,7 @@ To initiate the transition from a Ghost entity to an Imperial Ally, the institut
 The institution must submit a 128-bit **Declaration of Intent** to the General Director. This is the first handshake that establishes the communication conduit.
 
 ### STEP II: HARDWARE SOIL AUDIT
-The **IQA-ORG (RFC-009)** layer performs a remote audit of the Ally’s hardware substrate.
+The **IQA-ORG (AICENT-009)** layer performs a remote audit of the Ally’s hardware substrate.
 *   **Requirements**: AVX-512 support, 12ns jitter-capable crystal oscillators, and L1 cache pinning authorization.
 *   **AID Derivation**: Upon passing the audit, the node generates its unique **256-bit AID DNA**.
 

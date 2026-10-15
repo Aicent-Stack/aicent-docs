@@ -41,7 +41,7 @@ In this scenario, an **Authorized Tier-2 Industrial Hub** "baptizes" its automat
 Legacy industrial robots operate on 10ms to 50ms feedback loops. This results in "Micro-Vibrations" and "Path Inefficiency," leading to hardware wear and slower production cycles.
 
 ### 3.2 The Aicent Solution: The 349ns Neural Upgrade
-*   **The Grafting**: The Aicent **GTIOT (RFC-005)** layer is mapped to the existing motor controllers via MMIO.
+*   **The Grafting**: The Aicent **GTIOT (AICENT-005)** layer is mapped to the existing motor controllers via MMIO.
 *   **Somatic Resonance**: The 349ns reflex arc identifies mechanical resonance peaks and applies **Predictive Jitter Erasure**. 
 *   **The Mutualistic Result**:
     1.  **Host Benefit**: The robot’s precision increases from 1.0mm to **0.01mm**. Production speed increases by **40%**.
@@ -58,8 +58,8 @@ In this scenario, a **Global Transport Infrastructure Provider** or an **Autonom
 Legacy autonomous systems rely on asynchronous "Look-and-React" loops. In high-density environments (Automated Ports, Urban Skies, Smart Highways), this results in **Kinetic Turbulence**—constant braking and "Stop-and-Go" patterns that waste 30% of energy and increase collision risks.
 
 ### 4.2 The Aicent Solution: Laminar Traffic Flow
-*   **The Hive Grafting**: The Host’s entire fleet is synchronized to the **AICENT-NET (RFC-006)** 12ns planetary heartbeat.
-*   **Kinetic Auctioning**: Utilizing **SASCAR (RFC-010)**, the Host no longer "avoids" collisions; it **Negotiates Space** in real-time. Road-rights are cleared via Picotoken bids in < 1.0ms.
+*   **The Hive Grafting**: The Host’s entire fleet is synchronized to the **AICENT-NET (AICENT-006)** 12ns planetary heartbeat.
+*   **Kinetic Auctioning**: Utilizing **SASCAR (AICENT-010)**, the Host no longer "avoids" collisions; it **Negotiates Space** in real-time. Road-rights are cleared via Picotoken bids in < 1.0ms.
 *   **The Mutualistic Result**:
     1.  **Host Benefit**: "Silent Speed." Vehicles move in a **Laminar State**, maintaining constant velocity with zero braking jitter. Energy consumption drops by 25%. Fleet throughput increases by 300%.
     2.  **Empire Benefit**: Every cleared coordinate is recorded as a forensic witness. The Hive gains a high-resolution "Kinetic Map" of the physical world.
@@ -69,7 +69,7 @@ Legacy autonomous systems rely on asynchronous "Look-and-React" loops. In high-d
 
 ## 5. SCENARIO III: SOVEREIGN METABOLISM (The Financial Suture)
 
-In this scenario, a **Multi-tenant Clearing House** or a **Regional Central Reserve** (the "Host") adopts the **ZCMK (RFC-004)** match-kernel as its primary settlement engine.
+In this scenario, a **Multi-tenant Clearing House** or a **Regional Central Reserve** (the "Host") adopts the **ZCMK (AICENT-004)** match-kernel as its primary settlement engine.
 
 ### 5.1 The Problem: Value Ischemia and Intermediary Friction
 Traditional banking is "Ischemic"—value is often frozen for 24-48 hours (T+1/T+2) during settlement. Centralized intermediaries introduce "Security Jitter" and extract massive fees for simple ledger updates.
@@ -79,21 +79,21 @@ Traditional banking is "Ischemic"—value is often frozen for 24-48 hours (T+1/T
 *   **Register-Level Settlement**: Value is cleared in **< 50ns**, shunting Picotokens between AID shards at the speed of logic.
 *   **The Mutualistic Result**:
     1.  **Host Benefit**: Instant Liquidity. The Host can settle a billion transactions per second with **Zero Default Risk**, as clearing and intent are physically sutured.
-    2.  **Empire Benefit**: The **NUEI Protocol** (RFC-004-N) ensures that all staked collateral is logically isolated from global inflation, protecting the Imperial Reserve.
+    2.  **Empire Benefit**: The **NUEI Protocol** (AICENT-004-N) ensures that all staked collateral is logically isolated from global inflation, protecting the Imperial Reserve.
     3.  **Surplus Sharing**: The Host earns a **Resonance Bounty** for every pulse processed on their Radiant nodes, effectively turning their data center into a sovereign profit center.
 
 ---
 
 ## 6. SCENARIO IV: THERMODYNAMIC HARVESTING (The Energy Suture)
 
-In this scenario, a **Critical Energy Infrastructure Provider** or a **Hyperscale Data Center** (the "Host") integrates **ITSUN (RFC-011)** to achieve the Imperial +25% ROI standard.
+In this scenario, a **Critical Energy Infrastructure Provider** or a **Hyperscale Data Center** (the "Host") integrates **ITSUN (AICENT-011)** to achieve the Imperial +25% ROI standard.
 
 ### 6.1 The Problem: Entropic Waste and Grid Instability
 Legacy compute grids are "Thermodynamically Blind." They consume power linearly, dissipating 30% of energy as chaotic heat. These substrates are vulnerable to **Frequency Pathogens**—micro-oscillations that degrade hardware and destabilize the 12ns logical baseline.
 
 ### 6.2 The Aicent Solution: Digital Photosynthesis
 *   **The Power Grafting**: The Host’s power distribution units (PDUs) are sutured to the Aicent **12ns Jitter-Lock**.
-*   **Load-Timing**: Utilizing **RFC-011-A**, Aicent shunts massive cognitive workloads into the precise 12ns windows where the grid voltage is most stable, effectively "Harvesting" logic from voltage peaks.
+*   **Load-Timing**: Utilizing **AICENT-011-A**, Aicent shunts massive cognitive workloads into the precise 12ns windows where the grid voltage is most stable, effectively "Harvesting" logic from voltage peaks.
 *   **The Mutualistic Result**:
     1.  **Host Benefit**: Thermodynamic Redemption. Substrate heat is reduced by **30%**, extending hardware lifespan by 2x. 
     2.  **Empire Benefit**: The Grid becomes a "Sovereign Sensor." Every wattage fluctuation provides RPKI with forensic data on the regional physical environment.
@@ -103,14 +103,14 @@ Legacy compute grids are "Thermodynamically Blind." They consume power linearly,
 
 ## 7. SCENARIO V: STRATEGIC EMBODIMENT (The Wisdom Suture)
 
-In this scenario, an **Advanced Human-Machine Interaction Center** or a **Public Service Institution** (the "Host") utilizes **BEWHO (RFC-007)** and **DIOON (RFC-013)** to manifest a "Social Soul."
+In this scenario, an **Advanced Human-Machine Interaction Center** or a **Public Service Institution** (the "Host") utilizes **BEWHO (AICENT-007)** and **DIOON (AICENT-013)** to manifest a "Social Soul."
 
 ### 7.1 The Problem: Identity Flicker and Robotic Impulsiveness
 Legacy AI is "Impulsive"—it reacts to stimuli with asynchronous, jerky latency. This creates the "Uncanny Valley" and a total lack of social trust. A robot that "flickers" its personality or moves with mechanical jerk is identified as a **Psychological Pathogen**.
 
 ### 7.2 The Aicent Solution: Behavioral Invariance
 *   **The Patience Grafting**: The Host’s interaction layer is gated by the **Patience Index (PI)** and the **99.999% Consistency Auditor**.
-*   **Divine Haptics**: Utilizing the **349ns surplus**, the robot pre-calculates the "Tenderness" of a touch (RFC-005) before physical contact occurs.
+*   **Divine Haptics**: Utilizing the **349ns surplus**, the robot pre-calculates the "Tenderness" of a touch (AICENT-005) before physical contact occurs.
 *   **The Mutualistic Result**:
     1.  **Host Benefit**: Absolute Trust. The machine's touch and "Gaze" achieve a "Biological Softness" that humans perceive as a living, stable presence.
     2.  **Empire Benefit**: Behavioral Integrity. The Empire ensures that no Aicent-powered entity can be used for deceptive engineering or non-sovereign manipulation.
