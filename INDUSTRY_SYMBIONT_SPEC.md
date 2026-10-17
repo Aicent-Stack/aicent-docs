@@ -1,7 +1,7 @@
 # 🌱 INDUSTRY_SYMBIONT_SPEC [v1.3.0]
 
 [![Pulse](http://img.shields.io/badge/Symbiosis-349ns_Resonance-blueviolet.svg)](http://aicent.com)
-[![Law](http://img.shields.io/badge/Protocol-RFC--000_Standard-green.svg)](http://epoekie.com)
+[![Law](http://img.shields.io/badge/Protocol-AICENT--000_Standard-green.svg)](http://epoekie.com)
 [![Gain](http://img.shields.io/badge/ROI-%2B25%25_Efficiency-gold.svg)](http://itsun.com)
 
 > **"Aicent Stack does not compete for the ground; it claims the light. We do not seek to own the substrate; we manifest sovereignty upon its surface for the benefit of the host."**

@@ -2,7 +2,7 @@
 
 [![Staking](http://img.shields.io/badge/Status-Vault_Active-blueviolet.svg)](http://zcmk.com)
 [![Standard](http://img.shields.io/badge/Unit-1_SCU_=_$1,000-gold.svg)](http://zcmk.com)
-[![Security](http://img.shields.io/badge/Audit-RFC--004_Compliant-green.svg)](http://rpki.com)
+[![Security](http://img.shields.io/badge/Audit-AICENT--004_Compliant-green.svg)](http://rpki.com)
 
 > **"Speed is a privilege earned through commitment. In the 12ns grid, capital is the anchor of the soul."**
 

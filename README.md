@@ -5,7 +5,7 @@
 [![Precision](http://img.shields.io/badge/Precision-128--Bit_Absolute-gold.svg)](http://aicent.com)
 [![Observation](http://img.shields.io/badge/Vision-PICSI.COM_Active-brightgreen.svg)](http://picsi.com)
 [![Jitter](http://img.shields.io/badge/Clock_Jitter-12ns-red.svg)](http://aicent.com)
-[![Authority](http://img.shields.io/badge/Supervision-RFC--009_Active-84cc16.svg)](http://iqa.org)
+[![Authority](http://img.shields.io/badge/Supervision-AICENT--009_Active-84cc16.svg)](http://iqa.org)
 
 > **"If you seek to understand the Empire, you must first master its rhythm. 12ns is the alphabet; 349ns is the Truth."**
 
