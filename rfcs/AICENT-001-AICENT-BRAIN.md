@@ -52,7 +52,7 @@ The clinical 128-bit memory manifold. It tracks the standing, fidelity, and hist
 ### 2.3 The Evolutionary Scheduler (AICENT-001-C)
 The master rhythmic balancer. It manages the **1.2kHz heartbeat** and prevents "Cognitive Ischemia."
 *   **Priority Shunting**: Ensures Somatic (GTIOT) and Nerve (RTTP) intents bypass all administrative noise.
-*   **Reflex Optimization**: The scheduler operates within a **50ns** window, ensuring the **161.862us reflex arc** is never breached.
+*   **Reflex Optimization**: The scheduler operates within a **50ns** window, ensuring the **349ns reflex arc** is never breached.
 
 ---
 
@@ -142,7 +142,7 @@ Every 833 microseconds, the Brain initiates a **Totality Pulse**. This process i
 | **04: Execute**| Commit 12-DOF Torque Shards | **GTIOT (005)** | < 349 ns |
 
 ### 7.2 Cognitive Ischemia Management
-If any pillar (e.g., the Body or the Blood) fails to respond within the **161.862 µs Golden Window**, the Brain layer identifies the event as **"Cognitive Ischemia."**
+If any pillar (e.g., the Body or the Blood) fails to respond within the **349 ns Golden Window**, the Brain layer identifies the event as **"Cognitive Ischemia."**
 *   **Response**: The Brain immediately shunts the failing pillar into a **Quarantine State**, notifying RPKI to perform an emergency entropy scan.
 *   **Safety**: This prevents the "Lag" of a single component from poisoning the 349ns reflex arc of the entire Totality.
 

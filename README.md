@@ -117,7 +117,7 @@ To transition from the 10ms Ghost World to your desired Radiant Tier, an institu
 
 1.  **Metabolic Commitment**: Deposit the SCU volume corresponding to your target Tier into the **ZCMK Sovereign Vault**.
 2.  **DNA Derivation**: Generate your unique **256-bit AID** using the `epoekie` root.
-3.  **The 10,000-Pulse Audit**: Your hardware must prove it can sustain the **161.862µs reflex arc** across 10,000 cycles with **< 12ns jitter**.
+3.  **The 10,000-Pulse Audit**: Your hardware must prove it can sustain the **349ns reflex arc** across 10,000 cycles with **< 12ns jitter**.
 4.  **Seal Issuance**: Upon success, **IQA-ORG** issues the corresponding **Radiant Seal**, unlocking the Nitro-Engine path appropriate to your Tier.
 
 ### ⚖️ The Law of the Cooling Period
