@@ -9,7 +9,7 @@
 
 > **"If you seek to understand the Empire, you must first master its rhythm. 12ns is the alphabet; 349ns is the Truth."**
 
-**⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🎭 [BEWHO](http://bewho.com) | 🌿 [epoekie](http://epoekie.com) | 👁️ [PICSI](http://picsi.com)**
+**⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT®](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🎭 [BEWHO®](http://bewho.com) | 🌿 [epoekie](http://epoekie.com) | 👁️ [PICSI®](http://picsi.com)**
 
 ---
 
@@ -107,7 +107,7 @@ In the v1.3.0 Era, access to the **Full-Blood Imperial Core** is a function of c
 
 ### 2. The Economic Advantage
 *   **Radiant Immunity (Tier 1-3)**: Verified Allies are exempt from the 1.28% Maintenance Fee. Every Picotoken of value created remains within the Ally's own sub-grid.
-*   **The Ghost Tax**: Unverified nodes are shunted to the 10ms path and are subject to an automatic **1.28% Imperial Maintenance Fee**, shunted via **MAXCAP** to the GTIOT Embodiment Fund.
+*   **The Ghost Tax**: Unverified nodes are shunted to the 10ms path and are subject to an automatic **1.28% Imperial Maintenance Fee**, shunted via **MAXCAP®** to the GTIOT® Embodiment Fund.
 
 ---
 
