@@ -1,3 +1,10 @@
+> **Status: frozen design archive.**
+> This repository preserves an early (2026-04/05) design exploration of the Aicent Stack architecture.
+> It is unmaintained and kept for provenance. The protocol mainline has moved to the independent
+> standards-track line: **RTTP** — [rttp.com](https://rttp.com) (IANA CRI 27, crate [`rttp`](https://crates.io/crates/rttp))
+> and **IQA** — [iqa.org](https://iqa.org) (IANA CRI 28, conformance runs in
+> [`Aicent-Stack/conformance`](https://github.com/Aicent-Stack/conformance)).
+
 # 📚 AICENT-DOCS: THE IMPERIAL LIBRARY
 
 [![Imperial Heartbeat](http://img.shields.io/badge/Pulse-349ns_Verified-blueviolet.svg)](http://aicent.com)
