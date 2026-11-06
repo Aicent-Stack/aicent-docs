@@ -1,0 +1,5 @@
+# October on the record: the addressing line, measured | Aicent Stack
+
+31 Oct 2026 · [Read the full article](https://blog.aicent.com/october-on-the-record/) · [Chinese version](https://blog.aicent.com/zh/october-on-the-record/)
+
+October, restated from the wall summary (post 0124) for this blog: the combined specification advanced to revision -01 and returned to the Independent Submission Editor's queue; the registry rows began citing the draft and linking the scheme specification pages; two sealed, byte-replayable run records entered the LFDT Agent-Authority-Conformance lab's mainline, one author-produced and one independent, over one frozen byte stream; the release-attestations bundle reached 63 sealed records, byte-identical on both sites; fourteen sites were re-cast so that every scheme address printed on them resolves; and two commitments for November went on the record - revision -02 to the datatracker, and the AAE candidate vectors under the same treatment, with no dates promised. Nothing here is a projection; what is on the record carries its own address.

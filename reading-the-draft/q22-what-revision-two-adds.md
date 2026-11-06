@@ -1,0 +1,5 @@
+# What revision -02 of draft-li-rttp-iqa-addressing adds: the moment of use, the interpreter's seat, and the review on the record | Aicent Stack
+
+1 Nov 2026 · [Read the full article](https://blog.aicent.com/q22-what-revision-two-adds/) · [Chinese version](https://blog.aicent.com/zh/q22-what-revision-two-adds/)
+
+Revision -02 of draft-li-rttp-iqa-addressing was submitted on 1 November 2026 at 06:48 UTC — the ISE listing stamps it 31 October, its server's own calendar: 40 pages against -01's 34, five days after -01, with the addressing grammar and both wire formats byte-stable. Reading the Draft series, No. 22: a section-by-section reading of what the five-day interval bought — the separation of the moment a policy is expressed from the moment its condition is judged (Section 6.3), the credential-sharing argument that makes a legible refusal a security property rather than a courtesy (Section 8.1), a seat for policy interpreters that is not a vote (Section 8.4), three entries on the related-work map, and a first for this series — an acknowledgements section in which every revision debt is anchored to the section that repaid it.

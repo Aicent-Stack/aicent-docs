@@ -1,0 +1,5 @@
+# Refusal is an answer — the grant-reference family enters the lab mainline | Aicent Stack
+
+4 Nov 2026 · [Read the full article](https://blog.aicent.com/refusal-is-an-answer/) · [Chinese version](https://blog.aicent.com/zh/refusal-is-an-answer/)
+
+On the evening of 3 November, thirty-three minutes apart, both of our vector families merged into the Agent-Authority-Conformance lab's mainline — first aicent-grant-ref (PR #210, merge commit 0da1e29), then its sibling aicent-lease-boundary (PR #212, rebased onto the first merge and merged as 29423aa). No. 23 of this series recorded the argument the walls were having about refusal semantics; this piece records the artifact itself: what one of the twenty-five cases is made of, how the priority order and the null rule became testable expectations, why the mutation battery kills 21 of 21 mutants, how the two ambiguous cases are scored in named parts instead of being forced into verdicts, and what the family does not claim — plus what an implementer can do with four files and a Python 3 interpreter tonight.

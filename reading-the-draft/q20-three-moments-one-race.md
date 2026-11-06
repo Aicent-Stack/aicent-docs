@@ -1,0 +1,5 @@
+# Three moments, one race: when a delegation's status is decided | Aicent Stack
+
+30 Oct 2026 · [Read the full article](https://blog.aicent.com/q20-three-moments-one-race/) · [Chinese version](https://blog.aicent.com/zh/q20-three-moments-one-race/)
+
+The exchange ran two rounds today; this piece takes the first. It posed the sharpest question the delegation thread has produced - when, exactly, is the status of a delegation decided? Three relevant times, one unavoidable race between them, and an incentive analysis to close: if a refused delegation can crash your application, you have an incentive to share credentials. Reading the Draft, No. 20 - the deciding moment the two positions now share, the race no protocol can erase and the wire's answer to it (effective-versus-observed in the receipt, expired answered as expired, residual semantics putting the age on the table), and why the credential-sharing risk is the strongest argument for a refusal that can be read, re-derived, and answered.

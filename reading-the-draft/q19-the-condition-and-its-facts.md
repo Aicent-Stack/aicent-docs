@@ -1,0 +1,5 @@
+# The condition and its facts: what a delegation's DENY stands on | Aicent Stack
+
+29 Oct 2026 · [Read the full article](https://blog.aicent.com/q19-the-condition-and-its-facts/) · [Chinese version](https://blog.aicent.com/zh/q19-the-condition-and-its-facts/)
+
+The counterpart who drove Nos. 15-18 came back with a correction that redrew the map instead of disputing it: "within the company" was never a constraint on the action - it was a constraint on the delegation, on whom the permission may travel. Reading the Draft, No. 19: the draft-leak case, the Company Confidential label, the external accountant, and a DENY "if any condition isn't met" - and the split beneath them all. A condition is policy and lives one layer up; the facts it consumes - who the delegatee is, whether their authority stands at the instant of use - are bytes the wire returns; and whether the condition must hold at grant-time or at every use decides whether the mid-task rule of No. 18 applies. A delegation may be denied on a condition, but it can only be audited on the facts.

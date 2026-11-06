@@ -1,0 +1,5 @@
+# The boundary is a declaration — the lease-boundary family enters the lab mainline | Aicent Stack
+
+4 Nov 2026 · [Read the full article](https://blog.aicent.com/the-boundary-is-a-declaration/) · [Chinese version](https://blog.aicent.com/zh/the-boundary-is-a-declaration/)
+
+Thirty-three minutes after its sibling, aicent-lease-boundary merged into the Agent-Authority-Conformance lab's mainline on the evening of 3 November — PR #212 as merge commit 29423aa, rebased onto the sibling's merge so both records entered independently and the shared candidates index stayed clean. No. 24 of this series recorded how the walls settled the lease instant at-or-past; this piece records the artifact: fifteen cases over four reading rules — the declared boundary convention, the expired read that cannot be replayed or graced, the two answer modes with an unreachable organ, and the window as an operator choice — plus the seam where the family takes the never-assent mapping as a given from aicent-grant-ref, the merge mechanics that got both records into the mainline the same evening, and what the family does not claim.

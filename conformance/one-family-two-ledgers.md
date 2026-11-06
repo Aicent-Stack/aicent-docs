@@ -1,0 +1,5 @@
+# One family, two ledgers — five refusal records enter a second lab's test records | Aicent Stack
+
+5 Nov 2026 · [Read the full article](https://blog.aicent.com/one-family-two-ledgers/) · [Chinese version](https://blog.aicent.com/zh/one-family-two-ledgers/)
+
+On 30 October, on the WIMSE list, Sankalp Gilda of ProbityAI issued a standing invitation: file an issue with the record you expect and its verdict, and it goes into the test records under your name. On 5 November we filed that issue — five records drawn from the aicent-grant-ref and aicent-lease-boundary families, both already merged into the LFDT Agent-Authority-Conformance lab mainline as PRs #210 and #212. This piece records the filing: what a test record is and why the issue channel exists, what each of the five records traps a checker into revealing, the crosswalk between their reason parity (a set intersection) and our fixed priority order (the first value whose condition applies), what the records carefully do not claim, and what it means that one frozen family now sits in two third-party ledgers at once.
