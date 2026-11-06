@@ -1,6 +1,6 @@
-# Aicent Stack · Docs
+# Aicent Stack — Docs
 
-This repository is a **pointer page**. It no longer carries a living narrative.
+A curated index of the reading line. Every entry below is a pointer: a title, a date, a short description, and a link to the full article at [blog.aicent.com](https://blog.aicent.com). No full texts are mirrored here.
 
 The active line of this organization is the **two-pillar protocol**:
 
@@ -13,21 +13,18 @@ One sentence carries the division of labor:
 
 > rttp resolves where & when; iqa states whether — and where the two agree, action begins.
 
-## Where to read
+## The index
 
-| What | Where |
-| :--- | :--- |
-| Addressing pillar (RTTP) | [rttp.com](https://rttp.com) |
-| Attestation pillar (IQA) | [iqa.org](https://iqa.org) |
-| Reading line / blog | [blog.aicent.com](https://blog.aicent.com) |
-| Conformance lab (vector families, sealed run records) | [iqa.org/conformance/](https://iqa.org/conformance/) |
-| Organization profile | [github.com/Aicent-Stack](https://github.com/Aicent-Stack) |
+| Folder | What it holds | Echoes |
+| :--- | :--- | :--- |
+| [`naming/`](naming/) | Where each of the sixteen pillar names comes from, plus the landscape piece that froze the narrative | The sixteen pillar sites, AICENT-000..015 |
+| [`reading-the-draft/`](reading-the-draft/) | Article-by-article readings of the merged specification and the threads around it | The I-D, rttp.com and iqa.org foundations pages |
+| [`conformance/`](conformance/) | The conformance runs, the lab, and the sealed run records | [`Aicent-Stack/conformance`](https://github.com/Aicent-Stack/conformance) and [iqa.org/conformance/](https://iqa.org/conformance/) |
+| [`doctrine/`](doctrine/) | The design doctrine of the two pillars: derivation, leases, the envelope, the security ledger | rttp.com and iqa.org |
+| [`field-notes/`](field-notes/) | The industry as it happens: protocols, registries, incidents, and the wire | The broader agent-protocol landscape |
 
-Active repositories: [`rttp`](https://github.com/Aicent-Stack/rttp) · [`iqa-org`](https://github.com/Aicent-Stack/iqa-org) · [`iqa-mcp`](https://github.com/Aicent-Stack/iqa-mcp) · [`conformance`](https://github.com/Aicent-Stack/conformance) · [`interchange`](https://github.com/Aicent-Stack/interchange).
+## House rules
 
-## What this repository is
-
-A **frozen design archive**. The documents here record an early (2026-04/05) design exploration and are preserved as written — they are unmaintained and make no current claims.
-
-- All pre-existing files and folders are preserved byte-exact under [`archive/`](archive/), including the original README ([`archive/FROZEN-GENESIS-README.md`](archive/FROZEN-GENESIS-README.md)).
-- The frozen founding narrative of the organization lives in [`.github/FROZEN-GENESIS-README.md`](https://github.com/Aicent-Stack/.github/blob/main/FROZEN-GENESIS-README.md).
+- Pointers only. The articles live on the blog; this repository holds no copies.
+- English entries; each links both the English and the Chinese version of the piece where one exists.
+- No new claims are made in this repository. Facts belong to the sealed artifacts they came from.
